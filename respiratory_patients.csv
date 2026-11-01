@@ -1,0 +1,1001 @@
+Patient Id,Age,Gender,Smoking Status,Alcohol Use,Family History of Lung Disease,Past Lung Condition,Air Pollution Exposure,Occupational Exposure,Allergies,BMI,Cough Days,Wheezing,Shortness of Breath,Chest Tightness,Fatigue,Oxygen Saturation,Lung Function FEV1 %,Risk Level
+P1,34,Female,Never,Regular,No,Bronchitis,High,No,No,24.2,2,Yes,No,No,No,97,92,Medium
+P2,50,Male,Former,Occasional,No,No history,Medium,Yes,No,29.4,10,Yes,Yes,No,No,95,83,Medium
+P3,18,Male,Never,Regular,No,Pneumonia,Low,No,Yes,26.0,0,No,No,No,Yes,99,113,Low
+P4,67,Female,Never,Occasional,No,No history,Medium,No,Yes,27.0,0,Yes,No,No,No,93,89,Medium
+P5,56,Male,Never,Occasional,Yes,No history,High,No,Yes,26.0,5,Yes,Yes,No,Yes,96,92,Medium
+P6,42,Male,Never,Occasional,Yes,Pneumonia,Low,No,Yes,24.5,6,No,No,No,No,94,96,Medium
+P7,41,Male,Former,Regular,No,No history,Low,Yes,No,28.2,0,No,Yes,No,No,98,98,Medium
+P8,51,Female,Never,Occasional,Yes,No history,Low,No,No,19.0,0,Yes,No,No,No,97,95,Low
+P9,42,Male,Former,Occasional,No,No history,Low,No,Yes,21.1,2,No,No,No,No,96,96,Low
+P10,43,Female,Current,No,No,Bronchitis,Medium,No,Yes,18.5,6,Yes,No,No,Yes,96,86,High
+P11,57,Male,Current,No,No,Asthma,High,No,No,28.8,15,Yes,No,Yes,Yes,96,83,High
+P12,54,Female,Never,Occasional,Yes,Bronchitis,Low,No,No,24.1,8,No,No,No,Yes,94,104,Medium
+P13,45,Female,Never,No,No,Asthma,High,No,No,28.0,9,Yes,No,Yes,Yes,97,97,Medium
+P14,45,Female,Never,Occasional,No,Pneumonia,Medium,No,Yes,34.2,0,No,Yes,No,Yes,96,89,Medium
+P15,48,Male,Never,Occasional,No,Bronchitis,High,Yes,Yes,29.2,4,Yes,No,No,No,94,82,Medium
+P16,37,Female,Never,No,Yes,No history,High,No,No,16.4,1,Yes,Yes,Yes,Yes,96,92,Medium
+P17,40,Male,Former,No,No,Bronchitis,Medium,No,Yes,21.3,14,Yes,No,Yes,No,95,98,Medium
+P18,54,Male,Never,Occasional,Yes,Bronchitis,Medium,No,No,30.6,9,No,No,Yes,No,98,89,Medium
+P19,44,Female,Never,No,Yes,No history,Low,No,No,25.7,1,No,No,Yes,No,99,86,Low
+P20,25,Female,Never,No,No,Asthma,High,No,No,30.6,6,No,No,Yes,Yes,95,103,Medium
+P21,39,Female,Never,Regular,Yes,No history,High,No,No,34.6,1,No,No,No,Yes,97,83,Low
+P22,56,Male,Current,Occasional,No,No history,Low,No,No,22.6,5,No,Yes,No,Yes,97,102,Low
+P23,43,Female,Never,Occasional,Yes,No history,High,No,No,36.6,9,No,Yes,Yes,No,94,90,High
+P24,44,Female,Never,Occasional,No,No history,Low,No,No,25.5,2,No,No,No,No,97,93,Low
+P25,56,Male,Former,No,No,No history,Medium,Yes,Yes,25.8,5,Yes,No,Yes,No,98,77,Medium
+P26,73,Female,Never,Occasional,No,No history,Medium,No,No,29.7,11,No,No,No,No,94,95,Low
+P27,35,Female,Former,Occasional,No,Bronchitis,Low,No,Yes,42.0,2,Yes,No,No,Yes,95,110,Medium
+P28,66,Male,Never,No,No,No history,Medium,No,No,26.1,1,No,No,No,No,95,88,Low
+P29,28,Female,Former,No,No,No history,High,No,Yes,33.8,1,Yes,No,No,No,98,97,Low
+P30,49,Male,Never,Occasional,Yes,Bronchitis,High,No,No,30.8,16,No,Yes,Yes,No,97,90,High
+P31,28,Male,Never,No,No,No history,High,No,No,26.7,4,Yes,No,No,Yes,96,92,Low
+P32,66,Female,Former,Occasional,No,No history,High,No,Yes,28.2,3,No,Yes,No,Yes,96,86,Medium
+P33,59,Male,Never,Regular,No,No history,Low,No,No,22.2,3,No,No,No,Yes,96,107,Low
+P34,63,Female,Current,Regular,No,No history,Medium,Yes,Yes,24.8,9,Yes,No,Yes,Yes,95,84,High
+P35,33,Male,Current,Occasional,Yes,Bronchitis,High,Yes,No,20.0,14,Yes,Yes,Yes,No,96,90,High
+P36,56,Male,Never,No,No,No history,High,No,No,29.8,12,Yes,Yes,No,Yes,95,84,Medium
+P37,38,Female,Never,No,Yes,Bronchitis,Medium,Yes,Yes,21.3,13,No,No,Yes,Yes,93,79,High
+P38,39,Male,Former,Occasional,No,No history,Medium,Yes,No,25.9,0,Yes,Yes,No,No,95,84,Medium
+P39,54,Female,Never,No,No,No history,Low,No,No,19.0,9,No,No,No,Yes,98,100,Low
+P40,59,Female,Former,No,No,No history,Medium,Yes,No,22.1,9,No,Yes,No,No,95,101,Low
+P41,49,Female,Never,Occasional,No,Asthma,Low,No,Yes,18.5,11,No,No,Yes,Yes,99,96,Medium
+P42,37,Female,Never,No,No,Bronchitis,Medium,No,Yes,25.9,10,No,No,No,No,98,88,Medium
+P43,34,Female,Never,Occasional,No,No history,Medium,No,No,22.4,1,No,No,No,No,100,96,Low
+P44,68,Male,Former,Occasional,Yes,Asthma,Medium,No,Yes,25.2,10,Yes,Yes,Yes,Yes,97,83,High
+P45,55,Male,Former,No,Yes,Asthma,Medium,No,No,31.5,14,Yes,Yes,No,No,94,87,High
+P46,57,Male,Former,Occasional,No,Pneumonia,Low,No,No,32.2,6,No,No,Yes,Yes,97,86,Medium
+P47,79,Female,Current,Occasional,No,No history,High,No,Yes,18.4,8,Yes,Yes,No,No,94,80,High
+P48,34,Female,Current,Occasional,No,No history,Medium,No,No,19.3,11,Yes,No,Yes,No,98,97,Medium
+P49,84,Male,Never,No,No,No history,Medium,Yes,Yes,28.7,5,No,No,No,No,96,73,Low
+P50,85,Female,Former,No,Yes,No history,Medium,No,Yes,27.3,9,Yes,No,Yes,Yes,93,83,High
+P51,70,Male,Never,Regular,No,No history,Medium,No,Yes,28.2,8,Yes,No,No,Yes,96,84,Medium
+P52,58,Female,Never,Occasional,No,No history,Low,Yes,Yes,28.7,7,No,No,No,No,98,92,Low
+P53,36,Female,Current,No,No,No history,Low,No,Yes,31.0,4,No,No,Yes,No,93,94,Low
+P54,61,Female,Former,No,No,Bronchitis,Low,Yes,Yes,27.9,7,Yes,No,No,No,97,89,Medium
+P55,39,Male,Never,No,Yes,Bronchitis,High,No,Yes,28.1,8,Yes,No,Yes,Yes,98,82,High
+P56,46,Female,Never,Regular,No,No history,High,No,No,25.9,6,No,No,No,Yes,97,89,Low
+P57,42,Female,Current,No,No,No history,Medium,No,Yes,21.3,4,Yes,No,No,Yes,99,86,Low
+P58,50,Female,Current,Occasional,No,Bronchitis,Low,Yes,Yes,26.9,5,Yes,No,Yes,Yes,96,85,High
+P59,65,Female,Former,Regular,No,No history,High,Yes,No,28.7,8,Yes,No,Yes,No,94,74,High
+P60,38,Male,Current,No,No,No history,Medium,No,No,20.7,1,No,No,No,Yes,99,102,Low
+P61,31,Female,Never,Occasional,Yes,No history,Medium,Yes,No,34.4,4,No,Yes,No,Yes,100,103,Low
+P62,31,Male,Never,No,Yes,Pneumonia,Medium,Yes,No,30.7,1,Yes,Yes,Yes,No,98,99,Medium
+P63,31,Male,Never,No,No,Asthma,Medium,Yes,No,17.9,8,No,No,Yes,No,98,96,Low
+P64,25,Male,Current,No,No,Asthma,Low,No,Yes,27.5,2,No,Yes,No,Yes,96,113,Medium
+P65,32,Female,Never,Occasional,No,Pneumonia,Low,No,No,24.1,9,No,No,No,No,97,103,Low
+P66,65,Female,Never,Occasional,No,No history,Medium,No,No,33.2,5,No,Yes,Yes,No,95,84,Medium
+P67,37,Female,Current,Regular,No,No history,High,No,No,30.8,13,Yes,No,Yes,No,98,88,High
+P68,50,Male,Never,Occasional,No,Bronchitis,Low,No,No,30.5,5,No,No,Yes,No,96,80,Low
+P69,28,Female,Current,Occasional,No,No history,Medium,No,No,27.0,4,No,No,No,No,99,94,Low
+P70,49,Female,Never,Occasional,No,Asthma,Low,No,No,29.2,8,No,No,No,No,98,99,Low
+P71,20,Male,Current,Occasional,No,No history,Low,No,No,30.7,4,No,No,No,No,100,111,Low
+P72,36,Male,Never,Occasional,No,Bronchitis,Medium,No,No,20.0,11,Yes,Yes,No,Yes,100,85,Medium
+P73,80,Female,Current,Occasional,No,Bronchitis,Medium,No,No,26.6,5,No,Yes,No,Yes,94,85,High
+P74,37,Female,Current,No,No,Asthma,High,No,No,25.6,12,Yes,Yes,Yes,No,94,82,High
+P75,63,Female,Former,No,Yes,No history,Low,No,Yes,26.3,7,No,No,No,Yes,96,86,Low
+P76,53,Male,Never,Regular,No,No history,Medium,No,No,30.3,12,Yes,No,No,No,97,90,Medium
+P77,44,Female,Current,No,Yes,Bronchitis,High,Yes,Yes,24.0,11,Yes,Yes,No,Yes,94,85,High
+P78,36,Male,Current,No,No,No history,Medium,No,Yes,20.1,4,Yes,No,Yes,No,98,109,Medium
+P79,65,Female,Former,No,Yes,No history,Medium,No,No,20.3,9,Yes,Yes,No,No,96,95,Medium
+P80,43,Male,Never,No,No,No history,Medium,No,No,29.4,9,No,No,Yes,Yes,96,109,Low
+P81,69,Male,Current,Occasional,Yes,No history,Medium,No,Yes,20.4,13,Yes,Yes,Yes,Yes,95,81,High
+P82,35,Male,Current,No,No,No history,Low,No,No,23.7,8,No,Yes,No,No,95,103,Low
+P83,47,Female,Former,Occasional,No,Asthma,Low,No,No,28.1,0,No,Yes,No,No,97,89,Medium
+P84,53,Male,Never,No,No,Asthma,Medium,Yes,No,22.0,7,No,Yes,Yes,No,92,76,High
+P85,52,Male,Current,No,Yes,No history,Medium,No,Yes,17.3,5,Yes,Yes,Yes,Yes,97,88,High
+P86,27,Male,Never,Occasional,Yes,Bronchitis,Medium,No,No,25.5,0,Yes,No,No,No,98,99,Medium
+P87,36,Male,Never,Occasional,Yes,No history,High,No,No,26.7,9,Yes,No,Yes,No,97,74,Medium
+P88,43,Female,Current,Occasional,No,No history,Medium,No,No,19.9,4,No,No,No,Yes,95,92,Low
+P89,33,Female,Former,No,Yes,No history,Medium,Yes,No,28.4,5,No,No,Yes,No,95,97,Medium
+P90,56,Male,Never,Occasional,No,No history,Medium,No,Yes,20.6,2,Yes,No,No,No,100,76,Low
+P91,55,Female,Former,No,No,No history,Medium,Yes,No,17.7,12,Yes,No,No,Yes,94,87,Medium
+P92,18,Female,Current,No,No,No history,Low,No,Yes,28.9,9,Yes,Yes,No,Yes,97,99,Medium
+P93,19,Male,Current,No,No,Pneumonia,High,No,No,26.9,13,No,Yes,Yes,Yes,97,100,High
+P94,27,Male,Never,Occasional,No,No history,Low,No,No,26.5,9,No,No,No,No,100,88,Low
+P95,48,Male,Never,Regular,No,No history,Medium,No,Yes,19.2,10,No,No,No,No,99,100,Low
+P96,76,Male,Never,Occasional,No,Bronchitis,High,No,Yes,16.7,16,Yes,No,Yes,No,96,79,High
+P97,40,Female,Never,Occasional,Yes,No history,Low,No,Yes,24.7,0,No,No,No,No,99,105,Low
+P98,50,Female,Never,No,No,No history,Low,Yes,No,23.3,5,No,No,No,Yes,99,99,Low
+P99,30,Female,Never,Occasional,No,No history,High,No,Yes,21.9,0,No,No,No,No,97,89,Low
+P100,30,Male,Current,Regular,No,Bronchitis,Low,Yes,No,25.6,10,Yes,Yes,Yes,No,99,77,High
+P101,18,Female,Former,No,No,No history,Medium,No,No,29.3,1,No,No,Yes,No,99,85,Low
+P102,46,Male,Never,Occasional,No,No history,High,No,No,20.9,4,No,No,No,No,98,96,Low
+P103,60,Female,Current,Regular,Yes,Asthma,Low,No,Yes,26.0,12,Yes,No,No,Yes,95,67,High
+P104,41,Male,Never,Occasional,No,Asthma,Low,No,No,24.9,0,No,No,No,No,97,100,Low
+P105,67,Male,Never,Occasional,No,No history,Low,No,No,35.6,4,No,No,No,No,97,99,Low
+P106,49,Female,Former,Occasional,No,No history,Low,No,Yes,23.6,5,No,Yes,No,No,98,94,Low
+P107,45,Male,Never,No,No,No history,Low,Yes,No,21.4,6,Yes,No,No,No,98,109,Low
+P108,54,Female,Never,Occasional,No,Asthma,Medium,No,No,26.4,7,Yes,Yes,No,Yes,99,88,Medium
+P109,53,Male,Current,No,Yes,Asthma,Medium,No,No,38.2,7,Yes,No,No,Yes,95,103,High
+P110,63,Male,Never,No,No,Asthma,High,No,Yes,21.2,15,No,No,No,No,96,85,Medium
+P111,34,Female,Former,Occasional,No,No history,High,No,No,22.3,6,No,No,No,No,97,82,Medium
+P112,18,Male,Never,Occasional,Yes,No history,Low,No,Yes,25.1,3,No,No,No,No,100,101,Low
+P113,48,Male,Current,Occasional,Yes,Asthma,Medium,No,No,20.7,19,Yes,No,No,No,97,70,High
+P114,37,Male,Never,Occasional,No,Bronchitis,Low,No,No,29.3,0,Yes,No,No,No,97,92,Low
+P115,46,Female,Current,No,Yes,Bronchitis,Medium,No,Yes,21.6,8,Yes,Yes,No,Yes,94,102,High
+P116,71,Male,Former,Occasional,No,No history,Low,Yes,Yes,26.6,10,No,No,No,No,96,73,Medium
+P117,29,Male,Current,Occasional,Yes,Bronchitis,Medium,Yes,No,24.9,11,No,Yes,Yes,No,96,90,High
+P118,57,Male,Never,Occasional,No,Bronchitis,Low,No,Yes,30.2,4,Yes,No,Yes,No,97,88,Medium
+P119,60,Male,Never,Occasional,No,Pneumonia,High,No,No,31.7,12,Yes,No,Yes,No,94,91,High
+P120,53,Female,Never,Occasional,No,No history,Medium,No,No,27.6,0,No,No,Yes,No,99,88,Low
+P121,63,Female,Current,Occasional,No,No history,Low,No,No,22.4,6,Yes,Yes,Yes,No,97,88,Medium
+P122,39,Male,Never,Regular,No,Asthma,Medium,Yes,No,27.0,6,Yes,No,Yes,No,96,96,Medium
+P123,36,Female,Never,Occasional,Yes,Asthma,High,Yes,No,23.8,4,Yes,Yes,Yes,Yes,94,83,High
+P124,62,Female,Former,Occasional,No,No history,Medium,No,Yes,27.0,7,Yes,No,No,No,99,91,Low
+P125,57,Female,Current,No,No,No history,Medium,Yes,Yes,24.2,9,No,Yes,No,Yes,97,78,High
+P126,67,Male,Former,No,No,Bronchitis,High,No,Yes,25.5,2,Yes,No,Yes,Yes,96,80,High
+P127,49,Female,Never,No,No,No history,Low,No,No,23.5,5,No,Yes,Yes,No,98,95,Low
+P128,70,Female,Never,Occasional,No,No history,High,No,No,26.8,1,No,No,No,Yes,95,94,Low
+P129,42,Male,Former,No,No,No history,High,No,No,35.0,8,No,No,Yes,Yes,96,97,Low
+P130,30,Female,Never,No,No,No history,Low,No,No,33.2,1,No,No,Yes,No,100,103,Low
+P131,18,Male,Never,Regular,Yes,No history,Low,No,Yes,25.0,0,Yes,No,No,No,97,101,Low
+P132,29,Male,Never,No,No,Asthma,Medium,No,Yes,27.3,2,No,No,No,Yes,96,98,Low
+P133,58,Male,Never,No,No,No history,High,No,No,18.7,0,Yes,No,No,No,96,93,Low
+P134,24,Female,Never,No,No,No history,Low,Yes,Yes,29.4,4,No,Yes,Yes,No,100,93,Low
+P135,39,Female,Former,Occasional,No,No history,Medium,No,No,30.4,8,No,Yes,No,No,95,89,Medium
+P136,78,Female,Current,Occasional,No,No history,High,No,No,19.1,13,No,Yes,No,Yes,96,77,High
+P137,59,Male,Never,Occasional,Yes,No history,High,No,Yes,20.3,5,Yes,No,No,No,94,89,Medium
+P138,73,Female,Current,No,Yes,No history,Medium,Yes,No,19.7,4,Yes,No,No,Yes,95,82,Medium
+P139,31,Female,Never,Regular,No,Asthma,Medium,No,No,25.3,3,No,Yes,No,No,98,98,Low
+P140,18,Male,Never,No,Yes,No history,Low,No,No,21.9,0,Yes,No,No,No,99,105,Low
+P141,69,Male,Former,No,No,No history,High,No,Yes,28.7,12,Yes,Yes,No,No,95,79,High
+P142,25,Male,Never,Occasional,No,Pneumonia,Medium,No,No,27.7,3,No,No,No,No,96,103,Low
+P143,47,Male,Never,Regular,No,Asthma,High,No,Yes,19.5,1,Yes,No,No,No,94,82,Medium
+P144,49,Female,Current,No,Yes,No history,High,No,No,21.8,11,Yes,No,Yes,No,96,86,High
+P145,32,Female,Never,No,No,No history,Medium,No,Yes,24.4,0,Yes,No,Yes,No,99,105,Low
+P146,69,Male,Current,No,Yes,No history,Low,No,No,24.6,6,No,Yes,Yes,Yes,94,76,Medium
+P147,69,Female,Never,Regular,Yes,Bronchitis,Medium,No,No,30.1,13,No,Yes,Yes,No,97,79,High
+P148,54,Female,Never,Occasional,Yes,No history,High,No,Yes,28.6,12,Yes,Yes,No,Yes,98,107,Medium
+P149,46,Female,Former,Occasional,No,Bronchitis,High,No,Yes,33.9,9,No,No,No,Yes,95,97,High
+P150,49,Female,Current,Regular,No,No history,Medium,No,No,16.2,2,Yes,Yes,No,Yes,97,95,Medium
+P151,30,Female,Current,Occasional,No,No history,High,No,Yes,38.1,6,Yes,No,No,No,98,104,Medium
+P152,42,Male,Never,Occasional,No,No history,Low,Yes,Yes,28.9,3,No,No,Yes,No,97,96,Low
+P153,44,Female,Never,No,No,Asthma,High,No,No,25.1,10,Yes,Yes,No,No,99,102,Medium
+P154,33,Female,Never,No,Yes,No history,Low,No,Yes,21.6,0,No,No,No,No,96,100,Low
+P155,59,Male,Never,No,No,No history,Medium,Yes,No,29.4,10,Yes,No,No,No,94,94,Medium
+P156,25,Female,Never,No,No,Bronchitis,Medium,No,No,32.6,2,No,Yes,Yes,No,100,97,Low
+P157,39,Female,Never,Regular,No,Asthma,High,No,No,29.3,5,No,No,Yes,No,96,84,Medium
+P158,18,Male,Current,Occasional,No,No history,Low,Yes,Yes,30.8,2,No,No,Yes,Yes,99,100,Low
+P159,53,Male,Never,Occasional,Yes,Asthma,Medium,Yes,No,26.2,6,Yes,Yes,No,No,95,92,High
+P160,57,Male,Current,Occasional,No,Bronchitis,Medium,No,No,24.3,18,Yes,No,Yes,Yes,95,80,High
+P161,55,Female,Former,Occasional,No,Asthma,High,No,No,22.4,14,Yes,Yes,Yes,No,96,88,High
+P162,85,Male,Never,Occasional,Yes,No history,Medium,No,No,17.7,5,No,Yes,No,No,96,62,Medium
+P163,60,Male,Former,No,Yes,Pneumonia,Low,Yes,Yes,25.3,12,Yes,Yes,No,Yes,99,80,High
+P164,32,Female,Never,Regular,No,Asthma,Low,No,Yes,31.1,0,Yes,No,No,Yes,97,98,Low
+P165,85,Female,Never,No,No,No history,Medium,No,Yes,35.1,0,Yes,No,No,No,94,73,Low
+P166,32,Female,Never,No,No,Asthma,Low,No,Yes,26.2,5,No,No,No,Yes,99,108,Low
+P167,58,Female,Never,Occasional,Yes,Asthma,High,No,No,19.0,20,Yes,No,Yes,Yes,96,89,High
+P168,57,Female,Current,No,No,Bronchitis,Medium,Yes,Yes,24.7,10,No,No,Yes,No,95,85,High
+P169,33,Male,Never,No,No,No history,Medium,No,No,28.1,2,No,No,No,No,98,94,Low
+P170,67,Male,Former,Regular,No,No history,Low,Yes,No,33.5,0,No,No,Yes,Yes,98,107,Low
+P171,51,Female,Never,Occasional,No,Asthma,High,No,No,27.0,2,No,No,Yes,No,99,85,Medium
+P172,55,Female,Former,No,No,No history,High,No,No,31.9,7,No,No,No,No,96,87,Medium
+P173,36,Female,Current,Occasional,No,No history,Low,Yes,Yes,29.2,6,No,No,Yes,No,97,99,Low
+P174,66,Male,Never,No,Yes,Pneumonia,High,Yes,No,28.2,9,Yes,Yes,Yes,No,96,79,High
+P175,33,Female,Never,No,No,No history,Medium,Yes,No,27.8,2,Yes,No,Yes,Yes,99,104,Low
+P176,19,Male,Former,Regular,No,No history,Low,No,Yes,27.6,2,No,No,No,No,98,112,Low
+P177,67,Female,Never,No,Yes,No history,Low,No,Yes,25.0,5,Yes,No,No,Yes,98,88,Low
+P178,40,Male,Former,Regular,No,Pneumonia,Medium,Yes,No,26.1,12,No,No,Yes,Yes,97,78,Medium
+P179,47,Male,Current,Regular,No,No history,Low,No,No,23.9,9,Yes,No,No,No,100,89,Medium
+P180,75,Male,Current,Regular,No,Bronchitis,Medium,Yes,No,29.6,14,Yes,Yes,Yes,No,94,77,High
+P181,63,Female,Former,No,No,No history,Medium,No,No,19.7,2,Yes,No,No,Yes,95,94,Medium
+P182,55,Female,Never,No,Yes,Bronchitis,Low,No,No,22.4,0,No,Yes,No,Yes,95,88,Medium
+P183,62,Female,Never,No,Yes,No history,High,Yes,Yes,30.2,13,Yes,Yes,No,No,94,87,High
+P184,35,Female,Current,Occasional,No,No history,High,No,Yes,22.0,10,Yes,No,No,Yes,97,100,Medium
+P185,57,Female,Current,Occasional,No,No history,Medium,No,No,28.0,9,Yes,Yes,No,No,95,101,Medium
+P186,63,Male,Current,Regular,Yes,No history,Medium,No,No,24.4,5,Yes,Yes,No,Yes,97,93,High
+P187,57,Female,Never,No,No,Asthma,Medium,No,No,20.0,10,No,No,No,Yes,98,89,Low
+P188,43,Female,Never,Occasional,No,No history,Medium,No,No,26.2,4,No,Yes,No,Yes,98,111,Low
+P189,18,Male,Former,Occasional,Yes,No history,Low,No,No,32.1,5,No,Yes,No,No,97,104,Low
+P190,54,Female,Former,Occasional,No,Asthma,Medium,No,No,25.0,5,Yes,Yes,No,Yes,97,79,High
+P191,48,Female,Never,No,Yes,No history,Low,No,Yes,29.6,0,No,No,No,Yes,99,92,Low
+P192,40,Female,Never,No,No,Asthma,High,No,No,30.0,6,Yes,No,No,No,94,101,Medium
+P193,58,Female,Former,Occasional,No,No history,Low,No,No,19.9,8,Yes,No,No,Yes,99,91,Low
+P194,50,Female,Never,No,No,No history,Medium,No,Yes,29.9,10,Yes,Yes,No,No,96,92,Medium
+P195,49,Female,Never,No,Yes,No history,High,No,No,23.7,4,No,No,Yes,No,98,91,Low
+P196,24,Female,Never,Regular,No,No history,High,Yes,No,30.6,7,No,No,No,No,97,100,Low
+P197,24,Female,Current,No,Yes,No history,Medium,No,No,24.7,8,Yes,No,No,No,96,87,Medium
+P198,52,Male,Never,Regular,No,No history,Medium,Yes,No,29.2,12,Yes,Yes,No,No,96,98,Medium
+P199,47,Male,Former,No,No,No history,Medium,No,No,40.2,3,No,No,Yes,No,96,92,Low
+P200,48,Female,Never,No,No,No history,High,Yes,No,23.8,11,No,No,No,No,96,85,Low
+P201,48,Female,Never,No,Yes,No history,High,No,No,21.0,6,Yes,Yes,Yes,Yes,97,84,Medium
+P202,52,Female,Never,No,No,No history,Medium,Yes,No,26.7,9,Yes,No,No,No,98,94,Low
+P203,47,Female,Never,Occasional,Yes,Asthma,High,No,No,29.5,9,Yes,Yes,No,Yes,97,87,High
+P204,48,Female,Current,Occasional,No,No history,Low,No,No,33.4,11,No,No,No,Yes,98,91,Medium
+P205,50,Male,Current,Regular,No,Bronchitis,Low,No,Yes,32.8,6,Yes,No,Yes,No,94,101,Medium
+P206,60,Male,Former,Occasional,Yes,No history,High,Yes,Yes,25.1,15,Yes,Yes,Yes,No,94,88,High
+P207,38,Female,Current,No,No,No history,High,No,No,24.4,5,Yes,No,Yes,No,96,73,Medium
+P208,58,Male,Never,Occasional,No,Bronchitis,Medium,Yes,No,20.4,12,Yes,No,Yes,Yes,97,86,High
+P209,56,Male,Current,No,No,No history,Low,Yes,No,22.5,3,Yes,No,Yes,Yes,96,82,Medium
+P210,48,Female,Current,Occasional,Yes,No history,Medium,Yes,Yes,26.0,13,Yes,No,No,Yes,96,80,High
+P211,39,Male,Former,Occasional,Yes,No history,Medium,No,No,31.1,0,Yes,No,No,No,96,91,Low
+P212,52,Female,Current,Occasional,No,No history,Low,Yes,No,32.9,6,Yes,No,No,Yes,97,90,Medium
+P213,59,Female,Never,No,No,Bronchitis,Low,No,No,22.0,10,Yes,No,No,No,93,86,Medium
+P214,30,Male,Never,Regular,No,Bronchitis,Low,No,No,23.3,4,Yes,Yes,No,Yes,97,108,Low
+P215,47,Female,Current,Regular,Yes,No history,High,Yes,Yes,26.8,4,Yes,No,No,No,95,85,High
+P216,47,Female,Never,Occasional,No,No history,Low,No,No,27.9,4,Yes,No,No,No,99,110,Low
+P217,36,Male,Current,No,Yes,Bronchitis,Low,No,Yes,28.6,14,Yes,Yes,No,Yes,96,96,High
+P218,37,Female,Never,No,Yes,No history,Low,No,No,19.6,6,No,No,No,No,97,88,Low
+P219,23,Male,Never,No,No,Asthma,Medium,No,No,20.8,2,No,Yes,No,No,95,101,Low
+P220,29,Male,Current,Occasional,No,No history,Medium,Yes,Yes,30.2,8,No,Yes,Yes,Yes,97,92,High
+P221,23,Male,Never,No,No,No history,Medium,No,Yes,31.4,8,No,No,No,No,98,99,Low
+P222,37,Male,Never,No,No,No history,Medium,No,No,23.2,8,No,Yes,No,No,100,95,Low
+P223,38,Female,Never,Occasional,No,No history,Low,No,No,26.5,0,Yes,No,No,No,98,103,Low
+P224,38,Male,Never,Regular,Yes,No history,Medium,Yes,No,29.8,9,No,No,No,No,97,91,Low
+P225,52,Female,Current,Regular,Yes,No history,Medium,No,Yes,27.6,0,No,Yes,Yes,Yes,96,72,High
+P226,43,Female,Current,Occasional,Yes,No history,Medium,No,No,21.7,1,Yes,No,No,No,96,81,Medium
+P227,35,Female,Never,No,No,Pneumonia,Low,No,Yes,27.2,4,No,No,Yes,Yes,100,97,Low
+P228,35,Male,Never,Occasional,No,Pneumonia,Low,No,No,21.1,0,No,No,No,No,98,100,Low
+P229,29,Female,Current,Regular,No,No history,Low,Yes,No,28.3,10,No,No,Yes,Yes,97,103,Low
+P230,43,Female,Never,No,No,No history,High,No,Yes,24.7,5,Yes,No,No,No,95,99,Low
+P231,43,Male,Never,No,Yes,Asthma,High,No,No,22.7,3,No,Yes,No,No,94,87,Medium
+P232,70,Female,Never,No,No,Asthma,Low,Yes,Yes,26.3,10,Yes,Yes,No,No,96,86,Medium
+P233,69,Male,Current,Occasional,No,Asthma,High,No,No,22.9,5,Yes,Yes,Yes,No,94,70,High
+P234,68,Female,Never,Regular,Yes,No history,Low,No,No,20.9,6,No,Yes,No,No,95,86,Medium
+P235,77,Female,Never,Regular,No,No history,Low,No,Yes,28.7,6,No,No,No,Yes,95,95,Low
+P236,28,Female,Never,No,Yes,Pneumonia,Low,No,No,22.9,6,Yes,No,No,No,97,92,Low
+P237,56,Female,Never,Occasional,Yes,No history,Low,No,Yes,31.9,16,No,No,No,No,99,106,Low
+P238,57,Male,Former,No,No,Bronchitis,Low,Yes,Yes,31.0,6,Yes,Yes,No,No,94,87,High
+P239,53,Female,Never,Occasional,No,No history,Low,Yes,No,29.8,0,No,No,No,Yes,97,92,Low
+P240,78,Male,Former,Regular,Yes,No history,High,No,No,19.9,12,No,Yes,No,Yes,92,69,High
+P241,84,Female,Current,Occasional,No,Pneumonia,High,No,No,28.7,11,Yes,Yes,Yes,Yes,94,73,High
+P242,61,Female,Former,Occasional,No,Bronchitis,High,No,Yes,22.0,9,Yes,Yes,Yes,No,93,80,High
+P243,56,Female,Never,No,No,No history,High,No,Yes,30.6,0,No,No,No,No,97,91,Low
+P244,29,Male,Never,Regular,Yes,Pneumonia,Medium,No,No,21.4,4,Yes,Yes,No,No,97,99,Medium
+P245,29,Female,Never,Regular,No,No history,Low,No,No,24.8,0,No,No,No,No,100,106,Low
+P246,57,Male,Never,Occasional,No,No history,Medium,Yes,No,29.1,0,Yes,No,Yes,Yes,95,98,Low
+P247,45,Female,Never,Regular,No,No history,Medium,No,No,23.7,7,No,No,No,No,96,90,Low
+P248,26,Male,Never,No,Yes,No history,Medium,No,No,24.2,0,No,No,No,No,99,104,Low
+P249,44,Female,Current,No,No,No history,Medium,No,Yes,26.6,6,Yes,No,No,No,98,84,Medium
+P250,51,Male,Former,Regular,No,No history,Low,Yes,No,25.3,6,Yes,No,Yes,No,96,84,Medium
+P251,60,Male,Current,No,No,Bronchitis,Low,No,No,27.1,11,Yes,Yes,Yes,No,97,85,High
+P252,44,Male,Never,Occasional,No,No history,Medium,No,No,27.0,12,Yes,No,No,No,98,100,Low
+P253,42,Male,Never,No,No,Bronchitis,Medium,No,No,20.3,4,Yes,No,No,No,97,104,Low
+P254,46,Male,Former,No,No,No history,High,No,Yes,36.7,8,Yes,No,No,Yes,95,71,High
+P255,49,Male,Never,Occasional,No,No history,High,No,No,31.2,7,Yes,No,No,No,99,82,Low
+P256,29,Male,Never,Occasional,No,Bronchitis,Medium,Yes,No,28.3,8,Yes,No,No,No,96,105,Medium
+P257,58,Female,Current,Occasional,No,No history,Medium,No,No,22.9,0,No,Yes,No,Yes,96,86,Medium
+P258,79,Female,Current,No,No,No history,Low,No,No,30.4,7,Yes,No,No,No,94,88,Medium
+P259,58,Female,Current,No,Yes,Pneumonia,Medium,No,No,24.0,10,Yes,Yes,No,Yes,97,77,High
+P260,24,Male,Current,Regular,No,No history,Low,No,No,26.4,1,No,No,No,No,100,106,Low
+P261,47,Female,Former,Regular,No,Bronchitis,Low,No,No,25.1,7,No,No,No,No,97,101,Low
+P262,20,Female,Never,No,Yes,Asthma,Low,No,No,27.0,6,No,No,No,No,97,86,Low
+P263,19,Female,Current,Regular,No,Asthma,High,No,Yes,33.8,10,Yes,No,Yes,Yes,99,84,High
+P264,56,Male,Current,Occasional,Yes,No history,High,No,No,24.3,12,No,Yes,Yes,Yes,94,79,High
+P265,47,Male,Never,No,No,No history,Low,No,Yes,32.1,1,No,No,No,No,99,103,Low
+P266,36,Female,Current,Occasional,Yes,No history,High,Yes,No,28.3,5,No,Yes,Yes,No,97,91,Medium
+P267,18,Female,Current,No,No,No history,Medium,Yes,No,22.3,15,Yes,No,No,Yes,98,105,Low
+P268,27,Female,Never,No,No,Asthma,Low,Yes,No,36.4,1,No,No,No,No,98,98,Low
+P269,48,Female,Never,No,No,Asthma,Medium,No,No,29.5,6,Yes,Yes,No,Yes,99,90,Medium
+P270,46,Female,Never,Occasional,Yes,No history,Low,No,No,19.6,4,No,No,No,No,95,97,Low
+P271,56,Male,Former,Occasional,No,Pneumonia,Low,No,No,24.6,2,No,No,No,Yes,94,88,Medium
+P272,69,Female,Never,Regular,No,No history,Medium,No,No,22.2,5,No,Yes,No,No,96,84,Low
+P273,41,Female,Never,Regular,Yes,No history,High,No,No,22.4,7,No,Yes,Yes,No,96,90,Medium
+P274,53,Male,Current,No,No,Pneumonia,Low,No,Yes,22.4,9,No,No,Yes,No,96,88,Medium
+P275,44,Female,Former,Regular,Yes,Asthma,Medium,No,No,26.3,8,Yes,Yes,Yes,Yes,95,83,High
+P276,39,Female,Current,No,No,Asthma,Low,No,Yes,26.8,10,No,Yes,Yes,No,95,100,Medium
+P277,42,Male,Former,No,Yes,No history,High,No,No,29.3,1,Yes,Yes,Yes,Yes,98,96,Medium
+P278,60,Male,Never,No,No,Bronchitis,Low,No,Yes,26.3,8,Yes,No,No,Yes,96,82,Medium
+P279,31,Male,Current,No,Yes,No history,Medium,No,No,26.3,11,Yes,No,No,No,96,88,Medium
+P280,63,Female,Never,Regular,No,No history,Medium,No,Yes,32.7,4,No,Yes,No,Yes,98,105,Low
+P281,68,Male,Current,No,No,No history,Low,No,Yes,23.1,2,Yes,No,No,No,95,75,Medium
+P282,47,Female,Never,No,Yes,No history,High,No,No,28.3,1,No,No,No,No,96,95,Low
+P283,50,Female,Never,Occasional,No,No history,Low,No,No,30.7,2,Yes,No,No,No,99,101,Low
+P284,25,Male,Former,Regular,No,No history,Low,No,No,30.8,0,No,No,No,No,100,105,Low
+P285,81,Female,Never,No,No,No history,Medium,No,No,22.7,10,No,No,No,Yes,96,94,Low
+P286,61,Male,Never,Regular,No,Bronchitis,Low,No,No,24.2,0,No,Yes,No,No,96,74,Medium
+P287,49,Female,Never,Occasional,No,Asthma,Medium,No,No,25.8,5,No,Yes,Yes,No,97,84,Medium
+P288,47,Male,Never,Occasional,No,No history,High,No,No,29.2,0,No,Yes,No,No,96,86,Medium
+P289,53,Female,Former,Occasional,No,No history,Low,Yes,No,31.0,8,No,No,Yes,Yes,98,98,Low
+P290,36,Female,Former,Occasional,No,Pneumonia,High,No,No,25.5,13,No,No,No,Yes,98,91,Medium
+P291,50,Male,Never,Occasional,No,No history,Medium,No,No,32.7,6,No,Yes,No,Yes,98,87,Low
+P292,32,Male,Never,No,No,Bronchitis,Low,No,Yes,28.8,6,No,No,No,No,99,92,Low
+P293,53,Male,Never,Occasional,No,No history,Medium,Yes,Yes,23.0,7,Yes,No,No,Yes,97,94,Medium
+P294,36,Female,Never,No,No,Pneumonia,Medium,No,No,30.2,5,No,No,No,No,96,95,Medium
+P295,59,Male,Current,No,No,No history,Low,No,No,18.4,8,No,No,No,Yes,96,92,Medium
+P296,44,Female,Never,Regular,Yes,No history,Low,No,No,25.5,4,No,No,Yes,No,97,108,Low
+P297,50,Male,Never,Occasional,No,No history,Medium,No,No,17.4,4,No,No,No,No,97,88,Low
+P298,85,Male,Never,Occasional,No,Asthma,High,No,No,26.7,9,Yes,No,No,No,93,74,High
+P299,58,Female,Never,No,No,No history,Medium,No,No,30.8,9,Yes,No,No,No,95,94,Low
+P300,50,Female,Never,Occasional,No,No history,Low,No,No,29.3,0,No,No,No,No,100,95,Low
+P301,47,Male,Never,No,No,No history,Medium,Yes,No,16.0,7,No,No,No,Yes,97,89,Low
+P302,30,Female,Former,No,No,Bronchitis,High,No,No,27.5,18,Yes,No,No,Yes,99,85,Medium
+P303,62,Male,Never,Regular,No,No history,High,Yes,No,29.0,0,No,No,Yes,Yes,98,80,Medium
+P304,70,Female,Never,Occasional,No,No history,High,No,No,29.7,11,No,No,No,No,95,85,Low
+P305,47,Male,Never,Occasional,No,Bronchitis,Low,No,No,29.1,0,No,Yes,No,No,100,86,Medium
+P306,71,Male,Former,Occasional,No,Pneumonia,Medium,Yes,Yes,29.7,15,Yes,Yes,Yes,No,93,63,High
+P307,44,Female,Never,No,No,Asthma,Medium,Yes,No,19.9,0,Yes,No,No,Yes,96,111,Low
+P308,19,Male,Former,Occasional,No,No history,Low,No,Yes,25.9,5,No,Yes,No,No,99,102,Low
+P309,36,Male,Current,No,Yes,No history,Low,Yes,No,23.3,2,No,No,No,Yes,96,92,Medium
+P310,30,Male,Never,Regular,No,Bronchitis,Medium,No,Yes,25.8,3,Yes,Yes,No,Yes,96,106,Medium
+P311,42,Female,Never,Regular,No,Bronchitis,Low,No,No,27.2,8,No,No,No,Yes,97,91,Low
+P312,55,Female,Former,Occasional,No,Bronchitis,High,No,Yes,22.3,13,Yes,Yes,No,Yes,95,79,High
+P313,32,Male,Former,No,No,No history,Medium,No,Yes,23.9,8,No,No,Yes,No,99,103,Low
+P314,45,Male,Current,Occasional,No,Pneumonia,Low,No,No,28.7,9,No,Yes,No,Yes,95,85,High
+P315,49,Female,Never,No,No,No history,Medium,No,Yes,23.6,1,Yes,Yes,No,No,100,102,Low
+P316,35,Male,Former,No,Yes,No history,Medium,No,Yes,24.2,6,Yes,Yes,No,Yes,95,103,Medium
+P317,32,Male,Never,No,Yes,Pneumonia,Low,No,Yes,26.4,3,Yes,No,Yes,No,99,94,Low
+P318,47,Female,Never,Occasional,No,Bronchitis,Low,No,No,31.9,9,No,Yes,No,No,98,90,Low
+P319,59,Female,Former,No,No,No history,Medium,No,No,24.6,12,Yes,Yes,No,Yes,98,77,Medium
+P320,37,Male,Former,No,No,No history,Low,Yes,No,19.1,1,No,No,No,No,97,88,Low
+P321,35,Female,Current,Regular,No,No history,Low,No,No,21.9,8,Yes,No,Yes,No,97,103,Low
+P322,44,Male,Never,No,Yes,No history,High,No,No,26.7,6,No,No,No,No,97,86,Medium
+P323,50,Male,Never,Regular,Yes,No history,Medium,Yes,No,18.5,8,No,Yes,Yes,No,98,96,Medium
+P324,38,Male,Never,No,Yes,No history,High,No,No,22.3,10,Yes,No,Yes,Yes,95,100,Medium
+P325,41,Female,Never,Occasional,No,Asthma,Medium,No,No,22.3,11,Yes,No,No,No,97,90,Medium
+P326,43,Male,Never,Occasional,No,Asthma,Low,No,No,34.7,1,No,Yes,Yes,No,100,102,Low
+P327,30,Female,Never,Occasional,No,No history,Medium,Yes,No,29.6,7,No,No,No,No,98,99,Low
+P328,43,Male,Current,Regular,Yes,No history,Medium,No,No,22.5,11,Yes,No,No,No,97,99,Medium
+P329,38,Male,Current,No,No,No history,Low,No,No,21.9,6,No,No,No,No,97,90,Low
+P330,70,Male,Current,Occasional,No,Asthma,Medium,Yes,No,20.5,14,Yes,Yes,Yes,Yes,94,74,High
+P331,38,Female,Never,No,No,No history,Medium,Yes,Yes,26.4,8,No,No,Yes,No,100,94,Low
+P332,53,Female,Never,No,Yes,Bronchitis,High,No,Yes,25.8,6,Yes,Yes,Yes,No,95,85,High
+P333,52,Female,Current,No,No,No history,High,No,Yes,19.6,15,No,Yes,No,No,95,81,Medium
+P334,29,Female,Current,No,No,No history,Low,No,No,27.6,4,Yes,No,No,Yes,100,101,Low
+P335,27,Female,Current,No,No,No history,Low,No,Yes,30.9,6,Yes,No,No,No,97,104,Low
+P336,39,Male,Never,Occasional,No,Bronchitis,Medium,No,Yes,28.3,2,No,No,No,No,98,101,Low
+P337,56,Male,Current,Occasional,No,No history,Low,No,No,26.1,7,Yes,No,Yes,No,96,93,Medium
+P338,37,Female,Never,No,No,No history,High,No,Yes,32.2,5,Yes,No,No,No,95,95,Low
+P339,36,Female,Never,No,No,No history,High,No,No,27.5,4,Yes,No,No,No,97,90,Low
+P340,18,Male,Never,No,Yes,Asthma,Medium,Yes,Yes,27.2,0,Yes,Yes,No,No,96,103,Medium
+P341,40,Female,Current,Regular,No,No history,Low,Yes,No,29.4,10,No,Yes,No,Yes,96,90,Medium
+P342,51,Female,Never,No,No,Pneumonia,Medium,No,No,19.8,2,Yes,No,Yes,No,94,84,Medium
+P343,53,Female,Current,No,No,No history,High,No,Yes,32.8,8,Yes,Yes,Yes,No,95,82,High
+P344,52,Male,Never,No,No,Bronchitis,Medium,Yes,No,26.8,9,No,No,No,No,96,90,Medium
+P345,41,Female,Never,Occasional,No,No history,High,No,Yes,25.7,3,No,Yes,No,Yes,98,102,Low
+P346,43,Female,Former,No,No,Bronchitis,High,No,Yes,29.2,6,Yes,No,No,Yes,96,91,Medium
+P347,58,Female,Never,Occasional,Yes,No history,Low,No,No,21.3,6,No,No,No,No,95,94,Low
+P348,44,Female,Never,Occasional,Yes,Asthma,Medium,No,No,22.3,1,No,Yes,Yes,No,96,86,Medium
+P349,18,Female,Former,No,Yes,No history,Low,No,No,27.9,3,No,No,No,No,98,108,Low
+P350,61,Female,Former,Regular,No,No history,High,No,Yes,28.3,7,Yes,No,Yes,No,95,82,Medium
+P351,30,Male,Never,Regular,Yes,Bronchitis,High,No,No,20.1,8,Yes,No,Yes,No,98,100,Medium
+P352,67,Female,Never,No,Yes,No history,Low,No,No,25.3,2,No,Yes,No,No,97,90,Low
+P353,71,Female,Current,No,No,Pneumonia,Low,No,No,22.0,7,No,Yes,No,Yes,94,79,Medium
+P354,57,Male,Former,Occasional,No,No history,Medium,Yes,No,24.2,11,Yes,No,No,No,95,87,Medium
+P355,60,Male,Never,No,No,No history,High,No,No,21.4,11,Yes,No,No,No,94,75,Medium
+P356,74,Male,Current,Regular,No,Asthma,Medium,Yes,No,29.4,9,Yes,Yes,Yes,Yes,94,92,High
+P357,29,Female,Never,Regular,Yes,No history,High,No,Yes,26.9,7,Yes,No,No,No,97,100,Low
+P358,50,Male,Current,Occasional,Yes,No history,Low,No,Yes,21.5,9,Yes,No,No,No,96,95,Medium
+P359,50,Male,Current,Occasional,Yes,No history,Medium,No,Yes,27.9,13,Yes,No,No,No,97,79,High
+P360,31,Male,Never,No,Yes,Bronchitis,Medium,No,No,26.0,13,No,No,No,Yes,98,100,Low
+P361,76,Female,Never,Occasional,No,No history,Low,Yes,No,25.8,6,No,No,No,No,97,87,Low
+P362,37,Male,Current,No,No,No history,High,No,No,19.6,9,Yes,Yes,No,No,97,92,Medium
+P363,35,Female,Current,Occasional,No,Bronchitis,Low,No,Yes,21.0,6,Yes,No,Yes,No,95,108,Medium
+P364,50,Female,Former,Regular,No,Pneumonia,High,No,No,24.8,13,Yes,Yes,No,No,96,102,High
+P365,61,Male,Former,No,Yes,No history,High,Yes,Yes,21.9,12,Yes,Yes,Yes,No,98,86,High
+P366,37,Male,Current,Regular,Yes,No history,High,Yes,Yes,23.9,10,No,No,Yes,Yes,96,88,High
+P367,37,Female,Never,No,No,Bronchitis,High,Yes,No,28.3,5,Yes,Yes,No,No,97,85,Medium
+P368,54,Male,Former,Regular,No,No history,Medium,No,No,29.1,4,No,No,No,Yes,95,99,Medium
+P369,25,Female,Former,No,Yes,Asthma,Medium,No,No,25.3,0,Yes,No,No,Yes,99,96,Medium
+P370,34,Female,Never,No,No,No history,Low,No,No,24.3,0,No,No,No,No,99,98,Low
+P371,33,Female,Former,No,No,No history,Low,Yes,No,17.8,3,No,No,No,No,98,105,Low
+P372,39,Female,Never,Occasional,No,Asthma,Medium,No,No,25.5,3,Yes,Yes,Yes,No,96,88,Medium
+P373,44,Female,Never,No,Yes,Asthma,Medium,No,Yes,23.8,8,Yes,No,No,Yes,96,94,Medium
+P374,74,Male,Never,No,No,Asthma,Low,Yes,No,24.1,8,Yes,No,No,Yes,95,85,Medium
+P375,60,Male,Never,Occasional,No,No history,Medium,No,Yes,28.6,2,No,Yes,No,No,96,95,Low
+P376,46,Female,Former,Occasional,No,No history,Medium,Yes,No,20.0,6,No,No,No,No,96,103,Low
+P377,43,Female,Current,No,No,Asthma,Low,No,No,28.9,6,Yes,Yes,Yes,Yes,96,90,Medium
+P378,59,Female,Never,Occasional,Yes,Asthma,Medium,No,No,21.3,12,No,Yes,No,Yes,97,94,Medium
+P379,52,Male,Current,Occasional,Yes,Bronchitis,Low,No,No,19.4,11,Yes,Yes,No,No,95,80,High
+P380,59,Female,Never,Regular,No,No history,Medium,No,Yes,21.8,5,Yes,Yes,Yes,No,99,87,Low
+P381,67,Male,Never,Regular,No,Asthma,High,No,No,21.0,13,Yes,No,Yes,Yes,95,66,High
+P382,31,Male,Never,Occasional,No,No history,Low,No,Yes,25.4,7,No,No,No,Yes,99,107,Low
+P383,18,Male,Never,Occasional,No,No history,High,No,Yes,33.9,7,No,No,No,No,100,97,Low
+P384,46,Female,Current,Occasional,No,No history,High,Yes,No,33.3,11,Yes,No,No,No,96,93,High
+P385,47,Female,Former,No,Yes,Pneumonia,Medium,Yes,No,24.5,11,No,Yes,Yes,Yes,97,90,High
+P386,50,Male,Never,Occasional,No,No history,Medium,No,No,25.0,2,Yes,No,No,No,96,110,Low
+P387,37,Male,Never,Occasional,No,No history,Low,No,Yes,31.6,2,No,No,No,Yes,99,100,Low
+P388,43,Female,Current,No,No,No history,Low,No,No,30.3,6,Yes,Yes,No,No,98,100,Low
+P389,54,Female,Never,Regular,No,No history,Medium,No,Yes,22.2,2,Yes,Yes,No,No,96,97,Low
+P390,55,Female,Former,Regular,No,Asthma,Low,No,No,28.3,7,No,No,Yes,Yes,100,88,Low
+P391,66,Male,Never,Occasional,No,Pneumonia,High,No,No,27.3,9,No,No,No,No,95,93,Medium
+P392,18,Male,Former,No,No,Asthma,Low,No,No,30.9,8,No,No,No,No,100,102,Low
+P393,21,Male,Never,No,No,Bronchitis,High,No,No,37.4,6,Yes,No,No,No,99,94,Medium
+P394,68,Female,Never,Occasional,No,No history,Low,No,No,25.3,7,No,No,No,No,98,91,Low
+P395,55,Female,Never,No,Yes,No history,High,No,No,29.2,11,No,Yes,No,Yes,95,76,Medium
+P396,58,Male,Former,Regular,Yes,No history,Low,No,No,26.3,0,Yes,Yes,Yes,No,96,94,Medium
+P397,42,Female,Former,No,No,Bronchitis,Medium,No,No,26.8,9,No,Yes,No,Yes,96,105,Medium
+P398,39,Male,Never,No,No,No history,Low,Yes,No,22.3,1,No,No,No,No,96,96,Low
+P399,49,Female,Never,Regular,No,No history,Medium,No,No,24.6,2,No,Yes,Yes,Yes,96,97,Low
+P400,32,Female,Never,Regular,No,No history,High,Yes,No,28.2,0,Yes,No,Yes,No,96,107,Low
+P401,23,Male,Never,No,No,Bronchitis,Low,Yes,Yes,22.2,10,No,No,No,Yes,96,98,Low
+P402,29,Male,Current,No,No,No history,Low,Yes,No,27.7,7,Yes,Yes,Yes,No,98,97,Medium
+P403,48,Female,Former,Occasional,No,No history,Medium,No,Yes,27.3,6,No,No,No,No,96,97,Low
+P404,56,Male,Never,Occasional,No,No history,High,No,Yes,25.1,8,Yes,No,No,No,98,87,Low
+P405,71,Male,Never,Regular,No,No history,Medium,Yes,No,35.1,9,No,No,No,No,97,72,Medium
+P406,52,Female,Never,Occasional,Yes,No history,High,Yes,Yes,30.3,7,Yes,Yes,Yes,Yes,93,92,High
+P407,53,Male,Current,Occasional,No,No history,High,No,No,29.5,5,Yes,Yes,Yes,Yes,99,79,High
+P408,71,Female,Never,Occasional,Yes,Pneumonia,High,No,Yes,30.8,8,No,No,Yes,Yes,96,91,Medium
+P409,34,Male,Former,No,No,Bronchitis,Medium,No,No,26.6,0,No,Yes,Yes,No,99,83,Medium
+P410,32,Female,Never,No,No,No history,Medium,Yes,No,24.3,0,Yes,No,No,No,99,88,Low
+P411,38,Female,Never,No,No,Pneumonia,Medium,No,No,28.6,4,Yes,No,No,No,97,92,Low
+P412,45,Female,Current,Occasional,No,No history,Medium,No,No,27.5,10,Yes,No,No,Yes,96,84,Medium
+P413,76,Male,Former,Regular,Yes,No history,Low,No,No,29.4,2,Yes,No,No,No,94,78,Medium
+P414,41,Male,Never,Regular,No,Bronchitis,Low,No,No,26.9,2,No,No,No,Yes,96,90,Low
+P415,66,Male,Current,No,No,Pneumonia,Low,No,No,25.1,10,Yes,Yes,Yes,Yes,97,68,High
+P416,39,Female,Current,Occasional,No,No history,High,No,Yes,24.0,12,Yes,Yes,Yes,Yes,96,80,High
+P417,53,Female,Former,No,Yes,No history,Medium,No,No,20.8,10,No,No,No,No,97,99,Low
+P418,56,Female,Never,Regular,Yes,No history,Low,No,No,20.8,6,No,No,No,No,96,99,Low
+P419,54,Female,Never,No,No,No history,High,No,No,31.5,5,Yes,No,No,Yes,96,95,Medium
+P420,57,Male,Never,Occasional,Yes,Pneumonia,Medium,No,No,26.2,5,No,No,No,No,97,81,Medium
+P421,36,Male,Former,No,Yes,No history,High,No,No,27.2,10,No,No,No,Yes,99,87,Medium
+P422,68,Male,Never,Occasional,No,Asthma,Low,No,No,22.9,16,No,No,No,No,98,95,Low
+P423,61,Male,Current,Regular,No,No history,Medium,No,No,23.3,5,Yes,Yes,No,Yes,95,83,High
+P424,35,Male,Current,Regular,No,No history,Low,Yes,No,28.2,9,No,No,No,No,98,100,Low
+P425,54,Female,Current,No,Yes,Pneumonia,Medium,No,Yes,26.8,12,Yes,Yes,No,Yes,93,73,High
+P426,30,Female,Never,No,No,Bronchitis,Low,Yes,No,32.5,0,No,No,Yes,No,99,104,Low
+P427,47,Male,Never,Occasional,No,Asthma,Low,No,No,16.0,3,No,Yes,Yes,No,97,87,Low
+P428,28,Female,Never,Occasional,No,Pneumonia,Medium,No,No,26.6,0,No,No,Yes,No,98,103,Low
+P429,57,Male,Former,Regular,No,No history,Low,No,No,27.4,7,Yes,No,No,No,94,93,Medium
+P430,85,Male,Never,Occasional,Yes,Asthma,Low,No,No,23.6,2,Yes,No,No,Yes,95,66,Medium
+P431,68,Male,Never,Regular,No,No history,Medium,No,Yes,28.7,7,No,No,No,No,96,101,Low
+P432,57,Female,Never,Occasional,No,No history,High,No,Yes,24.3,4,No,Yes,No,No,96,82,Medium
+P433,32,Male,Former,No,No,No history,Medium,No,No,26.0,4,Yes,No,No,No,99,97,Low
+P434,52,Female,Former,Regular,No,No history,Low,No,No,33.8,11,Yes,No,No,No,99,90,Medium
+P435,64,Male,Former,No,No,No history,Low,No,No,21.0,14,Yes,No,No,No,96,88,Medium
+P436,45,Male,Never,Occasional,No,No history,High,No,No,28.0,1,No,No,No,Yes,97,91,Low
+P437,48,Male,Former,Occasional,Yes,No history,High,No,No,23.5,2,Yes,Yes,No,Yes,96,85,Medium
+P438,21,Female,Current,Occasional,No,Bronchitis,Medium,No,No,20.4,8,Yes,No,No,Yes,97,105,Medium
+P439,33,Female,Current,Occasional,No,Bronchitis,Medium,No,No,27.8,14,Yes,No,No,No,97,94,Medium
+P440,18,Female,Current,Occasional,No,No history,Medium,Yes,No,16.0,4,No,No,No,Yes,96,106,Low
+P441,75,Female,Current,No,No,Bronchitis,High,No,No,27.5,15,No,No,Yes,Yes,94,70,High
+P442,53,Male,Former,Regular,Yes,Bronchitis,High,No,No,19.0,9,Yes,Yes,No,No,96,81,High
+P443,57,Female,Never,Occasional,No,No history,High,No,No,25.3,0,Yes,No,No,No,95,93,Low
+P444,43,Female,Current,No,No,Pneumonia,Medium,No,Yes,22.3,11,Yes,No,Yes,Yes,97,96,High
+P445,24,Female,Never,Occasional,No,Bronchitis,Low,No,No,29.6,0,Yes,No,No,No,98,98,Low
+P446,49,Female,Never,No,No,No history,Medium,Yes,No,26.3,1,No,No,No,Yes,96,79,Low
+P447,36,Female,Current,Occasional,No,No history,Medium,No,No,27.4,8,Yes,No,No,Yes,96,82,Medium
+P448,31,Female,Current,Occasional,No,Pneumonia,Medium,Yes,No,19.3,6,No,Yes,No,Yes,96,81,High
+P449,47,Female,Never,No,No,Asthma,Medium,No,No,31.0,7,Yes,Yes,No,No,97,93,Medium
+P450,48,Female,Current,Occasional,No,No history,Low,No,No,22.5,6,No,Yes,No,No,95,77,Medium
+P451,43,Male,Never,No,Yes,Asthma,Medium,Yes,Yes,31.6,9,Yes,No,No,Yes,96,86,High
+P452,34,Male,Never,Occasional,No,No history,Low,No,No,21.2,2,No,No,No,Yes,100,110,Low
+P453,31,Male,Never,No,No,No history,Medium,Yes,No,30.7,13,Yes,No,No,No,99,101,Low
+P454,46,Male,Former,No,No,Asthma,Low,No,No,29.6,11,No,Yes,Yes,Yes,95,103,Medium
+P455,64,Female,Never,No,No,No history,Low,Yes,No,30.8,6,Yes,No,No,Yes,96,90,Medium
+P456,22,Male,Former,Occasional,No,Asthma,High,No,Yes,21.2,10,Yes,No,No,Yes,98,95,Medium
+P457,36,Female,Never,Regular,No,No history,High,Yes,No,24.0,6,No,No,No,Yes,97,99,Low
+P458,44,Male,Never,Occasional,No,No history,High,Yes,No,25.9,5,No,No,No,No,96,94,Low
+P459,44,Female,Current,Regular,No,No history,Medium,No,No,28.8,8,Yes,No,No,No,100,93,Medium
+P460,37,Female,Former,Occasional,No,No history,Low,No,No,34.4,5,Yes,No,No,No,96,106,Low
+P461,75,Male,Never,Regular,No,Pneumonia,Low,No,No,25.0,4,No,Yes,No,Yes,94,83,Medium
+P462,52,Male,Never,Occasional,No,Asthma,Low,No,No,25.7,2,No,No,Yes,No,100,91,Low
+P463,31,Male,Current,Regular,No,Bronchitis,High,No,Yes,24.2,12,Yes,Yes,Yes,No,95,101,High
+P464,18,Female,Former,No,Yes,Bronchitis,Medium,Yes,No,31.1,6,Yes,Yes,No,Yes,96,98,Medium
+P465,43,Male,Current,Occasional,No,Asthma,Medium,No,No,22.9,6,Yes,Yes,No,Yes,97,98,Medium
+P466,68,Male,Never,No,Yes,No history,Medium,No,No,22.5,2,Yes,No,No,Yes,96,90,Medium
+P467,49,Female,Current,No,No,Asthma,High,No,No,29.0,12,No,Yes,Yes,No,95,91,High
+P468,18,Female,Current,Occasional,Yes,No history,Medium,No,Yes,24.5,5,Yes,No,No,Yes,97,100,Medium
+P469,25,Male,Current,No,Yes,Bronchitis,Medium,Yes,Yes,34.1,8,Yes,No,No,Yes,97,81,High
+P470,48,Male,Never,Regular,No,No history,Medium,No,No,26.2,8,Yes,Yes,No,No,97,101,Low
+P471,62,Male,Current,No,No,No history,Low,Yes,Yes,16.5,0,Yes,Yes,No,Yes,97,92,Medium
+P472,48,Male,Never,No,No,No history,Medium,No,Yes,23.9,0,No,Yes,Yes,Yes,99,83,Low
+P473,48,Male,Current,No,No,No history,Medium,No,Yes,18.1,9,Yes,No,No,Yes,98,86,Medium
+P474,62,Male,Never,No,Yes,Bronchitis,High,Yes,No,25.0,10,No,No,Yes,No,94,90,High
+P475,65,Male,Current,Occasional,Yes,No history,Medium,No,Yes,24.2,10,Yes,No,No,No,94,92,High
+P476,36,Female,Never,No,Yes,Pneumonia,Medium,No,No,24.6,9,Yes,No,No,No,97,97,Medium
+P477,53,Female,Never,No,No,No history,Medium,No,Yes,18.7,0,No,No,Yes,No,97,90,Low
+P478,32,Female,Never,Occasional,No,No history,Medium,Yes,No,27.8,4,No,No,No,No,100,94,Low
+P479,30,Male,Never,No,No,No history,High,No,No,20.7,5,Yes,No,No,No,98,92,Low
+P480,55,Male,Never,No,No,No history,Medium,No,Yes,34.7,0,Yes,No,No,Yes,98,86,Low
+P481,25,Male,Former,Occasional,No,No history,Medium,No,Yes,32.1,0,Yes,No,No,No,98,98,Low
+P482,49,Male,Former,Occasional,No,No history,Medium,Yes,Yes,19.3,7,Yes,No,No,No,97,90,Medium
+P483,51,Female,Current,Occasional,No,No history,High,No,Yes,26.9,12,Yes,No,Yes,Yes,96,82,High
+P484,59,Male,Current,Occasional,No,No history,Medium,No,No,24.8,12,No,No,No,No,94,85,Medium
+P485,29,Male,Never,Occasional,No,No history,Low,No,No,29.2,2,No,No,No,Yes,100,98,Low
+P486,52,Female,Current,No,No,No history,Low,Yes,Yes,25.8,8,Yes,Yes,No,No,95,82,High
+P487,44,Male,Never,Regular,Yes,No history,Low,No,No,27.0,2,No,No,No,No,97,96,Low
+P488,68,Female,Former,No,Yes,No history,Low,No,No,21.0,1,Yes,Yes,No,No,95,85,Medium
+P489,35,Male,Never,Regular,No,Asthma,High,No,Yes,19.4,4,No,No,Yes,No,96,85,Medium
+P490,29,Female,Never,No,Yes,No history,High,No,Yes,17.6,0,Yes,No,Yes,Yes,96,94,Medium
+P491,54,Male,Current,Regular,Yes,Bronchitis,Low,No,No,29.7,14,Yes,No,No,Yes,94,82,High
+P492,33,Female,Current,Regular,No,No history,Low,Yes,Yes,27.5,6,No,No,Yes,No,98,99,Low
+P493,27,Female,Never,Occasional,No,Asthma,Low,No,No,28.0,0,No,No,No,Yes,97,93,Low
+P494,60,Male,Current,Regular,No,Asthma,Low,No,Yes,25.1,12,No,Yes,No,Yes,95,90,High
+P495,52,Female,Never,Regular,No,Bronchitis,High,No,No,26.4,8,Yes,No,No,No,96,87,Medium
+P496,18,Female,Former,No,No,No history,Low,No,No,22.0,3,No,No,Yes,No,100,114,Low
+P497,32,Male,Current,No,No,No history,Low,No,Yes,27.9,10,No,No,No,Yes,98,105,Low
+P498,29,Male,Never,Regular,No,No history,Medium,No,No,21.1,7,No,Yes,Yes,No,100,104,Low
+P499,56,Male,Never,Occasional,No,No history,High,Yes,No,24.1,3,No,No,No,No,94,89,Medium
+P500,68,Female,Never,Regular,No,No history,High,No,Yes,24.8,9,No,No,Yes,No,95,79,Medium
+P501,77,Female,Former,No,No,Bronchitis,High,No,Yes,23.5,16,Yes,Yes,Yes,Yes,94,91,High
+P502,57,Male,Never,Occasional,No,No history,Medium,Yes,Yes,21.8,11,Yes,No,No,No,97,97,Medium
+P503,30,Male,Former,Occasional,No,Bronchitis,Medium,No,No,27.0,4,Yes,Yes,No,No,96,86,Medium
+P504,29,Female,Current,Occasional,No,No history,High,No,No,26.1,9,Yes,No,No,No,95,99,Medium
+P505,32,Male,Never,Regular,No,Pneumonia,High,No,Yes,25.6,1,No,No,No,Yes,98,91,Low
+P506,53,Male,Never,Regular,No,Bronchitis,Low,No,No,26.0,7,No,No,No,Yes,97,104,Low
+P507,65,Male,Never,Regular,No,No history,Medium,No,Yes,26.5,2,Yes,No,No,No,99,78,Low
+P508,18,Male,Former,No,No,Asthma,Medium,Yes,No,24.1,3,Yes,No,No,No,100,97,Low
+P509,55,Female,Former,No,No,Pneumonia,High,No,Yes,17.2,12,Yes,Yes,No,No,96,79,High
+P510,60,Male,Former,Occasional,Yes,No history,Low,Yes,No,27.0,2,No,No,Yes,Yes,96,90,Low
+P511,51,Female,Former,No,Yes,No history,Medium,No,Yes,17.4,15,Yes,No,No,Yes,98,82,Medium
+P512,85,Male,Current,Occasional,No,Bronchitis,High,No,No,28.6,15,Yes,No,Yes,Yes,93,81,High
+P513,54,Male,Current,No,Yes,No history,Low,No,Yes,26.7,11,Yes,No,No,Yes,95,85,Medium
+P514,46,Male,Never,No,No,Bronchitis,Low,No,No,21.3,0,No,Yes,No,Yes,97,98,Low
+P515,55,Male,Former,Regular,No,No history,Medium,Yes,No,22.1,7,No,No,No,No,96,100,Medium
+P516,38,Female,Former,Occasional,No,Pneumonia,High,No,No,24.1,21,No,Yes,No,No,96,97,High
+P517,30,Female,Never,Regular,No,No history,High,No,No,29.5,1,No,No,No,No,99,106,Low
+P518,52,Female,Never,Occasional,Yes,No history,Medium,No,No,30.1,7,No,Yes,Yes,No,98,93,Low
+P519,63,Male,Never,No,No,Asthma,High,No,No,33.5,14,Yes,Yes,No,Yes,93,82,High
+P520,42,Male,Current,No,No,No history,High,No,No,29.0,13,Yes,No,No,Yes,96,96,Medium
+P521,60,Female,Never,Occasional,No,Pneumonia,Low,No,No,21.7,10,No,No,Yes,No,98,102,Low
+P522,40,Female,Former,No,No,No history,High,No,Yes,21.7,7,Yes,Yes,No,No,95,100,Medium
+P523,70,Female,Current,Regular,Yes,No history,Low,No,Yes,34.4,7,No,Yes,No,No,94,81,High
+P524,49,Female,Current,Regular,No,Bronchitis,Low,Yes,No,32.1,5,No,Yes,Yes,No,95,83,High
+P525,54,Female,Never,Occasional,Yes,Asthma,Medium,No,Yes,26.9,13,Yes,Yes,No,Yes,94,102,High
+P526,57,Female,Current,Occasional,No,No history,Low,No,Yes,32.8,12,Yes,Yes,No,Yes,95,76,High
+P527,26,Male,Former,No,No,No history,Medium,No,Yes,20.6,2,No,No,No,No,96,90,Low
+P528,43,Female,Current,Occasional,No,No history,High,Yes,Yes,33.9,7,Yes,Yes,Yes,Yes,96,96,High
+P529,74,Female,Never,Occasional,Yes,No history,Low,No,No,28.2,5,No,Yes,No,No,96,86,Medium
+P530,47,Female,Current,No,Yes,Bronchitis,Medium,No,Yes,27.9,12,Yes,No,Yes,No,96,84,High
+P531,67,Female,Former,No,No,Pneumonia,High,No,No,24.4,9,No,No,No,Yes,93,85,Medium
+P532,59,Female,Never,Regular,Yes,No history,High,No,No,18.9,11,Yes,No,No,No,96,77,Medium
+P533,19,Female,Never,Occasional,No,Pneumonia,High,Yes,No,27.5,5,Yes,Yes,No,Yes,95,108,Medium
+P534,57,Female,Never,No,Yes,No history,Medium,No,Yes,35.3,7,No,No,Yes,No,97,85,Low
+P535,30,Female,Never,No,No,No history,High,No,No,24.7,1,No,No,No,No,97,96,Low
+P536,50,Female,Never,No,No,No history,Low,No,Yes,23.1,1,Yes,No,No,No,98,93,Low
+P537,40,Female,Never,No,Yes,No history,Medium,No,No,24.6,2,No,No,No,No,99,90,Low
+P538,46,Female,Current,Regular,No,No history,High,No,Yes,26.3,13,Yes,Yes,No,No,98,101,Medium
+P539,45,Female,Former,Occasional,No,No history,High,No,Yes,21.4,1,Yes,No,No,Yes,94,101,Medium
+P540,50,Male,Never,Occasional,No,No history,Medium,Yes,Yes,28.7,8,Yes,No,No,No,96,85,Medium
+P541,39,Male,Former,No,Yes,Pneumonia,Medium,No,No,22.6,11,Yes,Yes,Yes,No,97,93,High
+P542,26,Male,Current,No,No,No history,Medium,No,No,31.6,7,No,No,No,No,96,108,Low
+P543,31,Female,Never,No,No,Bronchitis,Medium,No,Yes,19.4,6,No,No,No,Yes,99,94,Low
+P544,60,Female,Never,No,No,Bronchitis,Low,No,No,30.1,8,Yes,No,No,No,97,78,Medium
+P545,72,Female,Never,Occasional,Yes,No history,Low,Yes,No,22.8,11,No,Yes,No,Yes,97,86,Medium
+P546,49,Male,Never,Regular,Yes,No history,Medium,No,No,26.7,12,Yes,No,No,No,97,86,Medium
+P547,59,Male,Never,No,No,Asthma,Low,No,No,27.3,0,No,No,No,No,99,81,Low
+P548,61,Female,Former,Occasional,No,No history,Low,No,No,25.7,1,No,No,Yes,No,98,93,Low
+P549,26,Male,Former,Occasional,No,No history,Low,No,No,24.2,6,No,No,No,Yes,98,102,Low
+P550,18,Female,Former,Occasional,Yes,No history,Medium,No,No,31.2,7,No,Yes,Yes,No,98,90,Medium
+P551,45,Male,Current,Regular,No,No history,Medium,No,Yes,22.1,8,Yes,No,No,Yes,95,88,Medium
+P552,18,Female,Never,No,Yes,No history,Medium,No,No,31.3,4,No,Yes,No,No,98,96,Low
+P553,42,Female,Former,Occasional,No,No history,Low,No,Yes,16.0,6,Yes,No,No,Yes,98,95,Low
+P554,24,Male,Current,Regular,No,Bronchitis,High,No,Yes,27.0,7,Yes,Yes,No,No,96,86,High
+P555,37,Male,Former,Occasional,Yes,Bronchitis,Medium,No,No,19.6,11,No,Yes,No,No,95,99,Medium
+P556,35,Female,Current,No,No,No history,Medium,No,Yes,25.7,8,Yes,No,Yes,No,96,98,Medium
+P557,54,Female,Former,No,No,Asthma,Low,No,No,19.6,9,No,No,No,Yes,95,94,Low
+P558,36,Female,Never,Occasional,No,Bronchitis,Medium,No,No,21.1,3,No,Yes,No,Yes,97,92,Medium
+P559,29,Male,Current,Occasional,Yes,Bronchitis,Medium,No,Yes,21.5,14,No,No,Yes,Yes,95,98,High
+P560,47,Male,Never,No,Yes,Pneumonia,Medium,No,No,23.3,12,No,No,No,Yes,99,102,Low
+P561,85,Male,Never,No,No,No history,Medium,No,No,16.7,3,No,No,No,No,93,91,Low
+P562,53,Female,Former,No,Yes,No history,Low,No,No,26.9,11,No,No,No,No,98,100,Low
+P563,18,Female,Never,No,Yes,No history,Medium,Yes,Yes,24.2,4,No,No,Yes,No,100,99,Low
+P564,47,Female,Never,Occasional,No,No history,Medium,No,Yes,24.1,6,No,No,Yes,No,100,96,Low
+P565,85,Female,Former,Regular,No,Asthma,Medium,No,Yes,27.1,11,Yes,No,No,No,94,86,High
+P566,49,Female,Never,Regular,Yes,No history,Medium,No,Yes,21.1,6,Yes,Yes,No,No,96,90,Medium
+P567,65,Male,Current,No,Yes,No history,Medium,No,Yes,26.4,7,Yes,Yes,Yes,No,96,79,High
+P568,63,Male,Never,Regular,No,Asthma,Low,No,Yes,26.9,5,No,No,Yes,No,98,81,Low
+P569,64,Female,Former,Occasional,No,Pneumonia,Medium,Yes,No,30.6,9,Yes,No,Yes,No,95,90,High
+P570,62,Female,Former,No,Yes,Asthma,Medium,No,No,29.8,13,No,No,Yes,No,96,100,Medium
+P571,50,Female,Never,Occasional,No,Bronchitis,Medium,No,Yes,24.7,5,Yes,No,No,Yes,97,87,Medium
+P572,43,Male,Current,No,No,No history,Medium,No,No,27.6,2,Yes,No,No,Yes,96,95,Low
+P573,42,Female,Current,No,No,No history,Medium,No,Yes,27.2,4,No,No,Yes,Yes,99,101,Low
+P574,48,Female,Former,Regular,No,No history,High,Yes,No,26.6,10,Yes,Yes,No,Yes,96,93,Medium
+P575,52,Female,Former,Occasional,Yes,No history,Low,No,No,17.1,7,Yes,No,Yes,No,99,93,Low
+P576,27,Female,Current,Regular,No,No history,Medium,No,No,21.5,1,Yes,No,No,No,98,104,Low
+P577,42,Male,Never,Occasional,No,No history,Medium,Yes,Yes,26.9,4,Yes,No,Yes,No,98,96,Medium
+P578,45,Female,Current,Regular,No,Bronchitis,Low,No,Yes,23.0,0,Yes,No,Yes,No,94,86,High
+P579,48,Male,Never,Occasional,No,No history,Medium,No,Yes,23.2,6,No,No,Yes,No,97,86,Low
+P580,41,Male,Never,Occasional,No,No history,Medium,No,No,22.7,11,No,Yes,No,Yes,96,96,Low
+P581,58,Male,Never,Regular,No,Pneumonia,High,No,No,22.4,13,No,No,No,Yes,96,78,Medium
+P582,44,Female,Never,Regular,Yes,Pneumonia,High,No,No,26.4,12,No,No,No,Yes,98,91,Medium
+P583,40,Female,Current,No,No,No history,High,Yes,No,32.4,9,Yes,No,Yes,Yes,97,91,Medium
+P584,27,Female,Never,No,Yes,Asthma,High,Yes,No,28.5,2,Yes,No,No,Yes,95,102,Medium
+P585,34,Male,Never,Occasional,No,Bronchitis,Medium,No,Yes,30.8,10,No,Yes,No,No,100,85,Medium
+P586,49,Male,Current,Occasional,No,No history,Low,No,No,20.7,8,Yes,Yes,No,Yes,94,95,Medium
+P587,48,Male,Current,No,No,No history,Low,No,No,34.5,4,No,No,Yes,No,96,104,Low
+P588,18,Female,Never,Regular,No,Asthma,High,No,No,28.8,0,No,No,No,No,97,110,Low
+P589,60,Male,Current,Occasional,Yes,Asthma,Medium,No,No,21.0,6,No,Yes,Yes,No,96,77,High
+P590,35,Female,Never,No,No,Bronchitis,High,Yes,No,24.4,6,Yes,No,No,Yes,94,89,Medium
+P591,32,Male,Current,Occasional,No,No history,Medium,No,No,30.2,7,No,Yes,No,Yes,98,94,Medium
+P592,63,Female,Never,Regular,No,No history,Low,No,Yes,23.5,1,No,No,No,No,97,95,Low
+P593,63,Female,Never,No,No,Pneumonia,Medium,No,No,21.6,5,No,No,Yes,No,98,85,Medium
+P594,35,Female,Current,Occasional,Yes,No history,Low,No,No,20.5,5,No,No,No,Yes,98,100,Low
+P595,41,Female,Current,No,No,Asthma,Low,No,No,25.3,11,No,Yes,Yes,No,96,89,High
+P596,28,Male,Former,Occasional,Yes,Pneumonia,Medium,No,Yes,30.9,9,Yes,No,Yes,Yes,96,86,Medium
+P597,58,Male,Never,Occasional,No,No history,High,No,No,25.1,3,No,No,Yes,No,96,95,Low
+P598,60,Female,Current,No,No,No history,High,No,Yes,24.3,8,Yes,Yes,Yes,No,97,74,High
+P599,39,Female,Never,No,No,No history,High,No,No,31.1,4,No,No,Yes,No,96,93,Low
+P600,67,Female,Former,No,Yes,No history,High,No,No,25.5,12,Yes,Yes,No,Yes,94,80,High
+P601,60,Female,Never,No,Yes,No history,Medium,No,Yes,27.1,3,Yes,No,No,No,97,102,Low
+P602,44,Female,Former,No,No,Asthma,Medium,No,No,23.8,19,Yes,Yes,No,Yes,100,88,Medium
+P603,57,Male,Never,Occasional,No,No history,Low,No,No,17.6,0,Yes,No,No,No,95,91,Low
+P604,21,Male,Never,Occasional,No,No history,High,Yes,No,27.8,0,No,Yes,No,Yes,99,106,Low
+P605,42,Female,Never,No,No,No history,High,No,No,22.7,4,No,No,No,Yes,98,93,Low
+P606,50,Male,Current,Occasional,No,Pneumonia,High,Yes,No,31.8,12,Yes,Yes,Yes,No,97,75,High
+P607,46,Male,Former,Occasional,No,No history,Medium,No,No,20.6,9,No,No,No,No,98,91,Low
+P608,77,Male,Current,Occasional,No,No history,Medium,No,No,20.1,11,Yes,No,No,Yes,95,88,Medium
+P609,51,Female,Current,Occasional,No,Bronchitis,High,No,No,30.5,12,Yes,Yes,Yes,Yes,95,73,High
+P610,51,Male,Never,Occasional,No,No history,High,No,No,28.7,1,Yes,Yes,No,No,97,90,Low
+P611,26,Male,Current,Occasional,No,Asthma,High,No,Yes,23.4,7,Yes,Yes,No,Yes,95,88,High
+P612,43,Male,Current,No,Yes,No history,Medium,No,Yes,22.9,10,Yes,Yes,Yes,No,97,84,High
+P613,34,Female,Never,Regular,No,No history,Low,Yes,No,22.6,8,No,Yes,No,No,99,102,Low
+P614,81,Male,Former,Regular,No,Pneumonia,Medium,No,No,29.0,3,Yes,Yes,No,Yes,93,85,High
+P615,40,Male,Never,No,No,No history,Low,No,No,27.8,0,No,No,No,No,98,106,Low
+P616,48,Female,Never,Occasional,No,No history,High,No,Yes,31.2,6,Yes,Yes,No,No,99,92,Medium
+P617,64,Female,Never,No,No,No history,High,Yes,No,25.5,8,No,Yes,Yes,Yes,96,80,Medium
+P618,56,Female,Former,Occasional,No,No history,Medium,No,No,24.7,3,Yes,No,No,Yes,98,98,Medium
+P619,25,Female,Never,Regular,No,Pneumonia,Medium,No,No,22.2,5,Yes,No,Yes,No,99,104,Low
+P620,56,Male,Current,Occasional,No,Pneumonia,Low,Yes,Yes,23.1,3,Yes,No,Yes,Yes,96,92,High
+P621,57,Female,Current,Occasional,No,Asthma,Low,No,Yes,27.2,6,Yes,No,No,Yes,95,84,High
+P622,43,Male,Never,No,No,No history,High,No,No,21.3,15,No,No,No,No,97,99,Low
+P623,53,Female,Current,Regular,Yes,Pneumonia,High,No,No,21.1,4,Yes,Yes,Yes,No,95,78,High
+P624,48,Male,Former,No,No,Bronchitis,High,No,Yes,27.1,7,Yes,Yes,Yes,Yes,96,106,High
+P625,25,Female,Never,No,Yes,No history,Low,No,Yes,24.9,4,No,No,Yes,No,100,99,Low
+P626,38,Male,Former,Occasional,No,Asthma,Low,No,Yes,24.3,10,No,No,No,No,99,97,Low
+P627,46,Male,Never,Occasional,No,No history,Medium,No,No,23.5,12,No,No,No,Yes,98,86,Low
+P628,37,Male,Former,No,Yes,No history,Medium,Yes,Yes,21.8,13,No,No,No,Yes,99,99,Medium
+P629,54,Male,Current,No,No,No history,Medium,No,Yes,24.2,12,Yes,No,No,No,95,92,Medium
+P630,61,Male,Never,Occasional,Yes,No history,Low,No,No,24.2,0,No,No,No,No,100,84,Low
+P631,50,Male,Never,No,Yes,No history,Medium,Yes,Yes,30.6,14,No,No,Yes,Yes,97,94,Medium
+P632,40,Male,Never,Occasional,Yes,Pneumonia,Low,No,Yes,28.9,8,No,No,Yes,Yes,98,91,Low
+P633,66,Male,Never,Occasional,No,No history,Medium,No,Yes,22.5,1,Yes,No,No,No,98,85,Low
+P634,48,Male,Never,No,No,No history,Medium,No,No,22.2,1,No,No,No,Yes,99,102,Low
+P635,51,Female,Current,No,No,Bronchitis,Low,Yes,Yes,27.1,15,Yes,No,Yes,No,96,83,High
+P636,35,Male,Never,Occasional,Yes,No history,Low,No,No,25.6,2,Yes,No,No,Yes,99,109,Low
+P637,43,Female,Current,Occasional,Yes,No history,Medium,No,No,31.6,9,No,Yes,Yes,Yes,96,92,High
+P638,61,Female,Never,No,No,No history,Low,No,Yes,21.2,0,No,No,No,No,100,98,Low
+P639,57,Male,Never,Regular,No,Bronchitis,Medium,No,No,27.6,4,No,No,Yes,Yes,96,83,Medium
+P640,43,Male,Current,Occasional,No,Bronchitis,Low,Yes,No,20.3,12,No,No,Yes,No,96,91,High
+P641,46,Male,Current,No,No,No history,Medium,No,Yes,28.9,6,Yes,No,No,Yes,95,100,Medium
+P642,49,Male,Never,No,No,No history,Low,Yes,No,27.0,0,Yes,No,No,No,97,96,Low
+P643,32,Male,Never,Occasional,No,No history,Low,No,No,29.6,0,No,No,No,No,100,94,Low
+P644,43,Female,Former,Occasional,No,Bronchitis,High,Yes,No,25.8,9,Yes,Yes,Yes,Yes,95,89,High
+P645,38,Male,Never,No,No,Asthma,Low,Yes,Yes,28.7,2,Yes,No,No,No,98,92,Low
+P646,25,Female,Never,No,No,Bronchitis,High,No,Yes,26.8,4,Yes,No,No,Yes,97,96,Low
+P647,48,Female,Never,No,No,No history,Medium,No,Yes,26.1,4,Yes,No,No,Yes,97,93,Low
+P648,44,Female,Never,Regular,Yes,Asthma,Medium,Yes,Yes,31.9,8,Yes,Yes,No,No,97,86,High
+P649,24,Male,Former,Occasional,No,No history,High,No,No,31.4,11,Yes,No,No,No,96,98,Medium
+P650,34,Female,Former,Regular,No,Asthma,Medium,No,Yes,32.0,12,Yes,Yes,No,Yes,97,91,Medium
+P651,45,Male,Current,Occasional,No,No history,Medium,No,No,28.8,11,No,Yes,No,No,99,95,Medium
+P652,18,Male,Never,Regular,No,No history,Low,Yes,Yes,25.1,0,No,No,No,No,98,100,Low
+P653,49,Female,Current,Regular,No,No history,High,Yes,No,22.4,12,Yes,Yes,Yes,Yes,95,88,High
+P654,50,Female,Former,Occasional,No,No history,Low,No,Yes,24.9,2,Yes,Yes,Yes,Yes,95,92,Medium
+P655,56,Male,Current,No,No,No history,High,Yes,No,21.4,18,No,No,Yes,Yes,92,86,Medium
+P656,37,Female,Current,No,No,Pneumonia,Medium,No,No,23.0,6,No,No,No,Yes,95,94,Medium
+P657,25,Male,Never,Occasional,Yes,No history,High,Yes,Yes,26.5,5,No,No,Yes,No,98,104,Medium
+P658,55,Female,Never,Regular,No,Bronchitis,Medium,No,Yes,25.7,9,Yes,No,No,No,95,100,Medium
+P659,25,Male,Current,No,Yes,Bronchitis,Medium,Yes,No,26.4,10,Yes,Yes,No,Yes,95,87,High
+P660,54,Male,Never,Occasional,No,Asthma,Medium,No,Yes,27.1,1,No,No,No,No,96,78,Low
+P661,36,Female,Current,No,Yes,No history,Low,Yes,No,32.4,5,No,No,No,Yes,99,105,Low
+P662,31,Male,Current,Occasional,No,Bronchitis,Medium,No,Yes,25.1,16,No,Yes,Yes,Yes,96,97,High
+P663,50,Male,Current,No,No,Asthma,Low,No,Yes,18.9,10,Yes,Yes,No,No,94,79,High
+P664,63,Female,Never,No,Yes,No history,Low,No,Yes,27.4,6,No,Yes,No,No,97,91,Low
+P665,44,Male,Former,Regular,No,No history,Low,Yes,Yes,28.4,9,No,No,No,Yes,96,89,Low
+P666,42,Male,Never,Occasional,No,No history,Low,No,No,28.9,5,Yes,Yes,No,No,100,108,Low
+P667,21,Female,Never,Occasional,Yes,No history,High,Yes,No,36.9,0,No,No,No,Yes,99,98,Low
+P668,58,Female,Current,No,No,Pneumonia,Low,No,No,19.9,10,No,No,Yes,No,95,92,Medium
+P669,47,Male,Never,Regular,No,No history,Low,No,No,22.5,0,No,No,No,Yes,100,101,Low
+P670,42,Female,Former,No,Yes,Asthma,High,No,No,27.2,16,Yes,No,No,Yes,98,82,High
+P671,66,Female,Never,No,No,No history,Medium,No,No,28.5,8,No,No,No,No,97,90,Low
+P672,22,Male,Never,No,No,Pneumonia,Low,No,Yes,29.1,1,Yes,Yes,No,No,96,113,Low
+P673,38,Female,Current,No,Yes,Pneumonia,Low,Yes,Yes,32.8,9,No,Yes,No,Yes,94,93,High
+P674,46,Female,Current,Occasional,Yes,No history,High,No,Yes,23.0,3,Yes,Yes,No,Yes,96,79,High
+P675,42,Male,Never,Regular,No,Pneumonia,Low,No,Yes,30.1,0,Yes,No,Yes,Yes,100,110,Low
+P676,18,Male,Former,Occasional,No,No history,Medium,Yes,Yes,26.6,5,No,Yes,No,Yes,98,103,Low
+P677,51,Male,Never,No,No,No history,High,No,No,33.0,11,No,No,No,No,97,82,Low
+P678,46,Female,Never,No,No,Pneumonia,High,No,No,23.6,1,No,No,No,No,98,98,Low
+P679,61,Male,Never,Occasional,No,No history,High,No,Yes,25.8,7,Yes,Yes,No,Yes,98,83,Medium
+P680,77,Female,Current,No,No,No history,Low,Yes,Yes,24.6,9,Yes,Yes,No,No,96,69,High
+P681,43,Female,Current,Occasional,Yes,Pneumonia,Low,No,Yes,23.5,10,Yes,Yes,Yes,Yes,97,86,High
+P682,52,Female,Never,No,Yes,No history,High,Yes,No,32.1,11,No,Yes,No,No,96,82,High
+P683,50,Female,Never,Occasional,No,No history,High,No,No,28.4,9,Yes,Yes,Yes,Yes,95,105,Medium
+P684,49,Male,Never,Occasional,No,No history,Low,No,No,31.6,4,No,No,Yes,No,98,99,Low
+P685,44,Male,Never,Occasional,No,No history,Low,Yes,No,32.5,3,No,Yes,No,No,99,96,Low
+P686,52,Male,Current,No,Yes,Asthma,Low,Yes,No,25.6,13,Yes,No,Yes,No,98,80,High
+P687,63,Male,Never,Occasional,No,No history,Medium,No,Yes,29.8,4,Yes,Yes,Yes,No,95,86,Medium
+P688,33,Male,Never,Occasional,No,No history,Medium,Yes,Yes,31.1,8,Yes,No,No,No,96,112,Low
+P689,75,Female,Current,No,No,Asthma,High,No,No,30.0,14,No,Yes,Yes,Yes,95,74,High
+P690,54,Female,Current,No,No,Pneumonia,Medium,Yes,Yes,32.9,6,Yes,Yes,No,Yes,95,90,High
+P691,51,Male,Never,Occasional,No,Pneumonia,Medium,No,Yes,28.9,5,Yes,Yes,Yes,Yes,95,81,High
+P692,18,Female,Never,No,No,No history,Medium,Yes,Yes,18.2,9,No,No,No,No,100,101,Low
+P693,46,Female,Never,Occasional,No,No history,Medium,No,No,32.1,4,No,No,No,No,96,86,Low
+P694,31,Male,Former,Occasional,No,No history,Medium,No,No,16.4,5,Yes,No,No,No,98,90,Low
+P695,55,Female,Never,Occasional,No,Bronchitis,Medium,Yes,No,30.0,4,No,No,Yes,No,97,87,Medium
+P696,60,Male,Never,Regular,No,Asthma,High,No,No,32.3,8,Yes,No,Yes,Yes,98,104,Medium
+P697,63,Female,Current,No,No,No history,High,No,No,20.8,11,No,No,No,No,94,90,Medium
+P698,44,Female,Never,Regular,No,Pneumonia,Medium,Yes,No,20.4,6,Yes,No,No,No,96,90,Medium
+P699,45,Male,Never,Regular,No,No history,Medium,No,Yes,28.3,7,Yes,Yes,No,No,98,108,Low
+P700,53,Male,Never,Occasional,No,No history,High,No,No,30.0,3,No,No,No,No,95,96,Low
+P701,18,Male,Never,No,Yes,No history,Low,No,No,27.4,4,No,No,No,No,99,112,Low
+P702,39,Female,Never,Regular,No,No history,Medium,No,No,20.7,5,No,No,Yes,No,98,101,Low
+P703,38,Female,Current,Occasional,No,Asthma,High,No,Yes,33.9,10,Yes,Yes,Yes,No,97,103,High
+P704,54,Female,Current,No,Yes,Asthma,Medium,No,Yes,29.2,9,Yes,Yes,No,Yes,96,70,High
+P705,39,Male,Current,No,No,Bronchitis,Medium,No,No,20.1,8,No,No,No,No,96,85,Medium
+P706,57,Female,Never,No,Yes,Bronchitis,Medium,No,No,30.5,9,No,Yes,No,Yes,96,86,Medium
+P707,43,Female,Current,No,Yes,Pneumonia,Medium,Yes,No,16.0,14,No,Yes,Yes,Yes,95,86,High
+P708,59,Male,Current,Occasional,No,No history,Low,Yes,No,29.0,17,No,Yes,No,Yes,94,78,High
+P709,79,Female,Never,No,Yes,No history,Medium,Yes,No,18.0,8,Yes,Yes,Yes,Yes,95,67,High
+P710,69,Female,Former,Occasional,No,No history,Medium,No,Yes,28.9,11,Yes,No,No,Yes,97,92,Medium
+P711,60,Male,Former,Occasional,No,Bronchitis,High,Yes,No,28.1,12,Yes,Yes,Yes,No,95,87,High
+P712,63,Male,Never,No,No,Asthma,Low,No,Yes,32.1,13,Yes,No,No,Yes,97,82,Medium
+P713,41,Male,Current,Occasional,No,No history,High,Yes,Yes,27.6,12,Yes,No,Yes,Yes,95,86,High
+P714,34,Male,Former,No,No,Asthma,Low,No,No,24.6,4,Yes,Yes,No,Yes,98,82,Medium
+P715,33,Female,Never,No,Yes,No history,Low,No,No,20.8,4,Yes,Yes,No,No,98,94,Low
+P716,49,Female,Current,No,No,Pneumonia,Medium,No,Yes,22.1,16,Yes,Yes,No,Yes,95,82,High
+P717,68,Female,Never,No,No,No history,Medium,No,Yes,30.9,4,No,No,No,No,97,88,Low
+P718,35,Female,Never,Occasional,Yes,No history,Medium,No,No,27.2,4,No,No,No,Yes,98,94,Low
+P719,53,Male,Never,Occasional,Yes,No history,Low,No,No,29.1,10,Yes,No,No,No,96,97,Low
+P720,27,Male,Never,Occasional,No,No history,Medium,No,Yes,27.8,2,Yes,No,No,No,100,107,Low
+P721,28,Female,Never,Occasional,No,No history,High,No,No,21.5,0,Yes,No,No,No,97,97,Low
+P722,59,Female,Never,Regular,Yes,Asthma,Low,Yes,No,27.2,5,Yes,Yes,No,Yes,97,87,High
+P723,36,Female,Never,Regular,Yes,No history,Low,No,No,24.4,1,No,Yes,No,No,95,88,Low
+P724,35,Female,Never,No,No,No history,Low,No,No,17.7,1,No,Yes,No,No,100,96,Low
+P725,76,Female,Never,Occasional,No,No history,Low,No,Yes,30.2,7,Yes,No,No,No,96,94,Low
+P726,47,Female,Current,No,No,Asthma,Medium,No,No,24.0,8,Yes,Yes,Yes,Yes,94,79,High
+P727,45,Female,Current,Occasional,Yes,Pneumonia,Medium,Yes,Yes,24.9,12,No,No,No,Yes,94,81,High
+P728,43,Female,Never,Occasional,No,Asthma,Medium,No,Yes,29.2,2,No,No,Yes,Yes,97,90,Medium
+P729,52,Male,Never,No,No,Bronchitis,Medium,No,No,25.4,5,No,Yes,No,Yes,97,88,Medium
+P730,35,Female,Current,Regular,Yes,No history,Medium,No,No,25.8,11,No,No,No,Yes,96,92,Medium
+P731,47,Female,Never,No,Yes,Pneumonia,Medium,No,Yes,34.0,14,Yes,No,No,No,96,81,High
+P732,62,Female,Former,Occasional,No,No history,Low,No,No,27.8,0,No,Yes,No,Yes,97,96,Low
+P733,41,Male,Current,Occasional,No,Pneumonia,Medium,No,No,30.8,4,Yes,No,No,Yes,99,96,Medium
+P734,18,Male,Former,Occasional,No,Bronchitis,High,No,No,16.0,10,No,No,Yes,No,98,95,Medium
+P735,36,Female,Current,Regular,No,Pneumonia,Low,No,Yes,26.6,5,Yes,No,No,Yes,95,94,Medium
+P736,58,Male,Never,No,No,No history,Low,Yes,Yes,28.6,0,Yes,No,No,No,95,92,Low
+P737,63,Female,Never,No,Yes,No history,Low,No,Yes,24.9,1,No,No,No,No,98,95,Low
+P738,51,Male,Current,No,No,Bronchitis,Low,Yes,No,32.5,14,Yes,Yes,No,Yes,95,84,High
+P739,67,Female,Former,Occasional,No,No history,Low,No,No,21.7,7,Yes,No,Yes,No,97,103,Medium
+P740,30,Male,Never,Occasional,No,Asthma,Medium,No,Yes,28.9,6,No,Yes,No,No,98,105,Medium
+P741,65,Male,Current,No,Yes,No history,Medium,No,No,25.2,10,Yes,No,Yes,No,96,78,High
+P742,49,Male,Current,No,Yes,No history,Low,No,No,20.1,15,No,Yes,No,No,97,81,Medium
+P743,56,Male,Current,Occasional,Yes,No history,High,No,No,26.3,11,Yes,No,Yes,Yes,97,93,Medium
+P744,18,Male,Never,Regular,No,No history,Medium,Yes,No,24.7,3,No,No,No,No,100,100,Low
+P745,59,Female,Never,No,No,No history,Medium,No,No,29.9,5,No,No,No,No,98,81,Low
+P746,49,Male,Current,Occasional,No,No history,Medium,No,No,25.8,13,No,No,No,Yes,96,97,Low
+P747,75,Male,Never,Regular,No,No history,Medium,No,Yes,31.2,3,No,No,No,No,98,76,Low
+P748,49,Male,Former,Regular,No,No history,Low,No,No,22.2,8,No,Yes,No,No,98,91,Low
+P749,31,Male,Current,Occasional,No,Asthma,Medium,No,No,25.0,12,Yes,Yes,No,Yes,97,84,Medium
+P750,34,Female,Former,Occasional,No,Bronchitis,Medium,Yes,No,17.0,8,Yes,Yes,Yes,No,96,91,Medium
+P751,52,Female,Never,Occasional,No,No history,Low,No,No,29.7,4,No,Yes,No,No,98,98,Low
+P752,51,Male,Former,Occasional,No,No history,Medium,No,Yes,17.7,3,Yes,Yes,No,No,97,90,Medium
+P753,36,Male,Current,No,No,Asthma,Low,No,No,32.5,12,No,No,No,Yes,100,87,Medium
+P754,30,Male,Never,No,No,Pneumonia,Medium,Yes,Yes,26.3,6,Yes,No,No,Yes,96,97,Medium
+P755,69,Female,Never,Occasional,Yes,Bronchitis,Low,No,No,22.7,4,No,No,Yes,Yes,95,90,Medium
+P756,42,Female,Former,Regular,No,No history,Medium,No,No,29.0,10,No,Yes,No,Yes,94,103,Medium
+P757,45,Female,Never,Regular,Yes,Pneumonia,Low,No,No,27.4,6,No,Yes,No,No,98,95,Medium
+P758,38,Male,Never,Occasional,No,Asthma,Medium,No,No,17.8,4,No,No,Yes,Yes,97,82,Low
+P759,67,Male,Never,Occasional,Yes,No history,Low,No,No,29.7,0,No,No,No,Yes,98,94,Low
+P760,63,Male,Current,Regular,Yes,Asthma,Medium,No,No,35.3,10,Yes,Yes,Yes,No,95,83,High
+P761,31,Male,Current,Regular,No,Asthma,Low,No,Yes,18.1,10,No,No,Yes,Yes,98,94,Medium
+P762,45,Male,Current,Occasional,No,Pneumonia,Medium,Yes,Yes,27.2,9,No,Yes,No,Yes,93,80,High
+P763,32,Female,Never,No,Yes,No history,Medium,No,No,32.4,1,No,No,No,No,98,96,Low
+P764,74,Female,Never,No,No,No history,Low,No,No,24.8,6,No,No,No,No,98,96,Low
+P765,53,Female,Current,No,No,No history,Low,Yes,Yes,17.5,7,Yes,No,No,Yes,96,91,Medium
+P766,42,Male,Former,No,Yes,No history,Medium,Yes,Yes,26.6,16,Yes,Yes,No,No,97,88,Medium
+P767,41,Male,Current,No,Yes,No history,Medium,No,No,30.1,2,No,Yes,No,No,97,82,Medium
+P768,54,Male,Never,Occasional,No,Bronchitis,Medium,No,Yes,22.3,8,No,No,No,No,97,96,Low
+P769,42,Male,Never,Occasional,No,Pneumonia,Low,No,No,16.0,11,No,No,No,Yes,97,89,Low
+P770,69,Male,Former,No,No,Bronchitis,High,Yes,Yes,17.5,11,Yes,No,Yes,Yes,94,85,High
+P771,32,Male,Never,Occasional,No,No history,Low,Yes,No,19.9,0,No,No,No,No,95,98,Low
+P772,27,Female,Never,No,Yes,Asthma,High,No,Yes,30.3,6,Yes,Yes,Yes,Yes,96,92,High
+P773,67,Male,Never,Regular,No,Asthma,Low,Yes,No,22.9,3,No,Yes,No,No,97,91,Low
+P774,40,Female,Current,No,No,No history,Medium,No,No,24.8,5,No,Yes,No,No,95,91,Medium
+P775,67,Male,Former,No,No,No history,Medium,No,Yes,28.1,8,Yes,Yes,Yes,No,99,83,Medium
+P776,59,Female,Former,Regular,No,No history,Low,No,Yes,16.8,1,Yes,No,No,Yes,97,97,Low
+P777,26,Female,Never,Occasional,No,No history,Medium,No,No,24.9,8,No,No,No,No,98,100,Low
+P778,37,Female,Current,No,No,No history,Medium,No,No,24.2,11,Yes,No,No,Yes,98,78,Medium
+P779,47,Male,Current,Regular,No,Bronchitis,High,No,Yes,26.2,15,Yes,Yes,No,Yes,94,89,High
+P780,43,Female,Former,Regular,No,No history,Medium,No,Yes,25.5,4,Yes,No,Yes,Yes,97,95,Low
+P781,51,Female,Former,No,No,Pneumonia,Medium,Yes,Yes,23.3,6,Yes,No,Yes,Yes,96,79,High
+P782,37,Female,Never,Regular,Yes,Asthma,Medium,No,Yes,23.6,3,Yes,No,No,No,96,86,Medium
+P783,45,Female,Current,No,No,Pneumonia,Low,No,Yes,26.0,7,No,No,Yes,Yes,95,80,High
+P784,61,Female,Former,Regular,No,No history,Low,No,No,22.7,7,Yes,Yes,No,Yes,97,89,Medium
+P785,66,Male,Never,Regular,No,Asthma,Low,Yes,Yes,32.8,10,Yes,No,Yes,Yes,98,88,Medium
+P786,34,Female,Never,No,Yes,Bronchitis,Medium,No,Yes,31.6,13,Yes,Yes,Yes,No,97,105,Medium
+P787,43,Male,Never,Occasional,No,No history,High,No,No,28.6,0,No,No,No,Yes,97,101,Low
+P788,44,Male,Never,No,Yes,Pneumonia,Low,No,No,25.0,12,No,No,No,No,97,111,Low
+P789,26,Male,Former,Occasional,No,No history,Medium,No,No,25.1,10,No,No,No,Yes,100,94,Low
+P790,60,Female,Never,No,Yes,Asthma,Low,Yes,No,30.1,6,No,Yes,No,Yes,97,91,Medium
+P791,54,Male,Current,No,No,No history,Medium,No,No,26.6,9,No,Yes,No,No,96,95,Medium
+P792,54,Female,Never,No,No,Pneumonia,High,No,Yes,22.3,11,Yes,No,Yes,No,97,82,High
+P793,44,Female,Never,No,No,No history,Medium,No,Yes,27.6,5,No,No,No,Yes,99,97,Low
+P794,59,Male,Current,Regular,No,Asthma,High,No,Yes,27.9,15,Yes,No,No,Yes,93,83,High
+P795,60,Female,Former,Occasional,No,No history,Low,No,No,27.8,12,No,No,No,No,97,92,Low
+P796,63,Male,Current,No,Yes,No history,Medium,Yes,Yes,21.6,10,Yes,No,Yes,Yes,95,64,High
+P797,43,Male,Current,No,No,Asthma,High,No,No,21.1,11,No,Yes,Yes,Yes,93,87,High
+P798,51,Male,Current,Occasional,Yes,No history,Low,No,Yes,23.2,0,Yes,Yes,No,Yes,94,77,High
+P799,40,Male,Former,Occasional,No,No history,High,No,No,21.6,6,Yes,No,Yes,Yes,100,89,Medium
+P800,41,Male,Former,No,No,No history,Low,No,No,20.2,0,No,No,No,Yes,98,99,Low
+P801,61,Female,Never,No,No,Bronchitis,Medium,No,No,29.7,0,No,No,No,Yes,97,83,Low
+P802,47,Male,Never,Occasional,No,Asthma,Medium,No,No,24.5,13,No,Yes,No,Yes,97,100,Medium
+P803,44,Female,Never,Occasional,No,No history,Medium,Yes,No,24.8,8,Yes,No,No,No,98,93,Low
+P804,55,Male,Never,No,No,Pneumonia,Medium,No,No,25.6,1,No,No,No,No,96,96,Medium
+P805,56,Female,Former,Occasional,No,No history,Low,No,No,16.7,2,No,No,No,No,98,92,Low
+P806,35,Male,Never,Occasional,No,No history,Low,Yes,No,28.6,6,No,No,No,No,98,101,Low
+P807,36,Male,Former,Occasional,No,Asthma,Medium,No,Yes,24.9,0,Yes,Yes,No,Yes,97,89,Medium
+P808,57,Male,Current,Occasional,No,Asthma,Low,No,No,21.2,5,Yes,Yes,No,Yes,96,96,Medium
+P809,54,Male,Never,Occasional,No,No history,Medium,No,Yes,24.2,4,No,No,Yes,No,98,96,Low
+P810,43,Male,Former,Occasional,Yes,Bronchitis,Medium,No,No,29.8,7,Yes,No,No,Yes,95,103,Medium
+P811,64,Male,Never,Occasional,No,No history,High,No,No,25.1,8,No,No,Yes,Yes,93,97,Low
+P812,45,Male,Never,Regular,No,No history,Medium,Yes,Yes,32.3,2,Yes,No,No,Yes,98,99,Low
+P813,18,Male,Never,No,No,Asthma,Medium,No,No,32.0,15,No,No,No,No,99,112,Low
+P814,34,Female,Never,Regular,No,No history,High,No,Yes,33.1,1,No,No,No,No,97,89,Low
+P815,24,Male,Never,Occasional,No,Asthma,Low,No,Yes,28.3,0,No,No,No,Yes,97,99,Low
+P816,63,Female,Never,No,No,Pneumonia,High,No,Yes,29.2,11,No,Yes,No,No,96,77,Medium
+P817,54,Female,Current,Occasional,No,No history,Low,No,Yes,18.0,12,No,No,Yes,Yes,94,92,Medium
+P818,48,Female,Current,Regular,Yes,No history,Medium,Yes,Yes,24.0,4,Yes,Yes,Yes,No,96,86,High
+P819,18,Male,Current,Occasional,Yes,Asthma,Medium,No,No,30.4,7,Yes,No,No,Yes,99,86,High
+P820,24,Female,Current,Regular,No,Asthma,High,No,Yes,28.2,12,Yes,No,Yes,Yes,95,96,High
+P821,44,Female,Former,No,Yes,No history,Medium,No,No,16.1,12,No,Yes,No,Yes,96,95,Medium
+P822,19,Female,Current,No,No,No history,Low,No,No,24.8,5,No,No,No,No,98,108,Low
+P823,60,Male,Former,Occasional,No,No history,Low,No,No,23.5,8,No,No,No,No,96,83,Low
+P824,44,Female,Never,Occasional,Yes,Pneumonia,Medium,No,Yes,27.4,0,Yes,Yes,Yes,Yes,95,86,High
+P825,44,Male,Current,No,No,Bronchitis,Low,No,No,23.6,2,No,No,No,No,94,90,Medium
+P826,45,Female,Former,Regular,Yes,Pneumonia,Low,No,No,24.3,4,Yes,Yes,No,Yes,96,99,High
+P827,32,Male,Current,Regular,No,No history,Low,Yes,No,26.1,5,No,No,No,No,99,106,Low
+P828,30,Male,Never,Occasional,Yes,Bronchitis,High,No,No,25.3,6,No,No,No,No,99,103,Low
+P829,18,Male,Current,No,No,Pneumonia,Low,No,No,27.6,8,No,No,No,No,98,100,Low
+P830,46,Female,Never,No,Yes,No history,Medium,No,Yes,20.7,3,Yes,No,No,No,94,99,Low
+P831,52,Female,Never,Regular,Yes,Pneumonia,Medium,Yes,Yes,26.5,5,Yes,Yes,Yes,No,93,102,High
+P832,42,Male,Former,Regular,No,No history,High,No,No,27.4,10,No,No,Yes,No,97,97,Medium
+P833,42,Female,Never,Occasional,Yes,No history,High,No,No,20.9,12,No,No,No,No,96,88,Medium
+P834,32,Male,Former,No,No,No history,Medium,No,Yes,25.5,6,No,No,No,Yes,97,101,Low
+P835,50,Male,Never,No,No,No history,High,No,Yes,31.1,3,Yes,Yes,No,No,97,99,Low
+P836,18,Male,Never,No,No,No history,Low,No,Yes,27.5,0,No,No,No,No,100,101,Low
+P837,29,Male,Current,No,No,Bronchitis,Low,No,Yes,27.5,7,No,No,Yes,No,96,104,Medium
+P838,36,Female,Current,Regular,No,Bronchitis,Medium,No,No,20.9,11,Yes,Yes,No,Yes,97,94,High
+P839,38,Female,Never,No,No,Bronchitis,Low,No,Yes,32.4,0,Yes,Yes,No,No,95,90,Medium
+P840,49,Male,Never,No,No,No history,Medium,Yes,No,21.3,4,Yes,No,No,Yes,97,91,Low
+P841,43,Male,Current,No,No,Bronchitis,High,No,No,26.0,12,No,No,Yes,No,96,81,High
+P842,48,Female,Never,Occasional,No,Asthma,Medium,No,No,23.2,7,Yes,No,No,No,97,96,Low
+P843,65,Male,Former,Occasional,No,Bronchitis,Low,Yes,No,24.9,7,Yes,No,No,Yes,96,103,Medium
+P844,67,Male,Current,No,No,No history,Medium,No,No,31.8,10,Yes,Yes,No,Yes,94,82,High
+P845,56,Male,Current,No,No,No history,Medium,Yes,No,29.4,8,Yes,No,Yes,No,96,93,Medium
+P846,65,Male,Former,No,No,No history,Medium,Yes,No,28.4,3,Yes,No,Yes,No,95,72,Medium
+P847,72,Female,Current,Occasional,Yes,No history,Medium,No,No,29.1,12,Yes,No,No,No,94,75,High
+P848,52,Female,Never,No,No,Asthma,Low,No,No,32.9,8,No,No,No,No,95,95,Low
+P849,25,Female,Current,Regular,Yes,Asthma,Low,No,No,16.0,11,Yes,Yes,Yes,No,98,99,High
+P850,61,Male,Never,Regular,No,Bronchitis,Medium,No,Yes,19.1,11,Yes,No,Yes,No,96,89,Medium
+P851,31,Female,Never,No,No,Pneumonia,Medium,No,Yes,25.6,7,No,Yes,No,Yes,97,97,Medium
+P852,74,Female,Former,Occasional,Yes,No history,Medium,No,No,18.4,6,No,No,No,Yes,93,81,Medium
+P853,72,Female,Never,No,No,No history,High,No,Yes,29.8,7,No,Yes,No,No,96,89,Medium
+P854,38,Male,Current,No,No,No history,Low,Yes,Yes,24.4,7,Yes,Yes,No,No,98,111,Low
+P855,30,Male,Former,No,No,Pneumonia,High,No,Yes,26.9,8,Yes,Yes,Yes,No,97,98,High
+P856,36,Female,Current,Occasional,No,Pneumonia,Medium,No,No,27.2,12,Yes,Yes,Yes,No,98,95,High
+P857,45,Male,Never,No,No,No history,High,No,No,28.2,1,No,No,Yes,Yes,97,98,Low
+P858,65,Male,Former,Regular,Yes,No history,Low,No,Yes,29.0,9,No,No,Yes,No,95,77,Medium
+P859,27,Male,Never,Occasional,No,No history,Low,No,No,21.6,1,Yes,No,No,No,99,102,Low
+P860,59,Male,Never,Regular,Yes,Bronchitis,Medium,No,No,21.9,7,Yes,No,Yes,Yes,97,102,Medium
+P861,18,Male,Former,Regular,No,Bronchitis,High,No,Yes,25.3,5,No,Yes,Yes,Yes,97,85,High
+P862,64,Male,Current,Occasional,No,No history,Low,No,No,25.9,1,Yes,No,Yes,Yes,92,96,Medium
+P863,45,Female,Never,Regular,Yes,No history,Low,No,No,23.5,1,No,Yes,No,No,98,98,Low
+P864,49,Female,Former,Occasional,Yes,No history,Low,Yes,No,20.1,6,No,Yes,No,Yes,97,90,Medium
+P865,44,Male,Current,No,Yes,Pneumonia,Low,No,No,18.7,13,No,No,No,No,96,102,Medium
+P866,60,Male,Never,Occasional,No,No history,Low,Yes,No,26.3,2,No,No,No,No,99,89,Low
+P867,52,Female,Current,No,No,No history,Medium,No,Yes,36.9,15,Yes,Yes,No,No,96,84,High
+P868,71,Female,Current,No,Yes,Pneumonia,Medium,No,Yes,31.7,10,Yes,Yes,Yes,No,93,81,High
+P869,19,Male,Former,Occasional,No,Asthma,Medium,No,No,25.8,3,Yes,No,No,No,96,106,Medium
+P870,32,Male,Never,Occasional,No,No history,Low,No,Yes,41.2,0,No,No,No,No,100,110,Low
+P871,26,Female,Current,No,No,No history,Low,No,Yes,21.1,0,Yes,No,Yes,No,100,106,Low
+P872,57,Male,Current,Occasional,No,Pneumonia,Medium,Yes,Yes,22.6,12,Yes,Yes,Yes,Yes,95,79,High
+P873,21,Male,Never,No,No,Asthma,Low,No,No,23.5,2,Yes,No,Yes,No,96,104,Low
+P874,82,Male,Never,Occasional,No,Pneumonia,Low,No,No,27.3,10,Yes,Yes,No,Yes,97,82,High
+P875,47,Female,Current,No,Yes,Bronchitis,Medium,Yes,No,33.7,13,No,Yes,No,Yes,94,85,High
+P876,64,Female,Former,No,Yes,No history,Medium,No,No,21.7,8,No,No,No,Yes,96,83,Medium
+P877,32,Male,Never,Regular,Yes,No history,Medium,No,No,27.3,3,No,No,No,Yes,95,90,Low
+P878,49,Male,Current,Regular,Yes,No history,Medium,No,Yes,35.4,7,Yes,Yes,No,Yes,96,88,High
+P879,55,Male,Former,No,Yes,No history,Medium,No,Yes,16.7,13,Yes,No,No,Yes,94,92,Medium
+P880,35,Female,Never,No,No,No history,Medium,No,No,28.2,5,Yes,No,No,Yes,100,105,Low
+P881,43,Female,Never,No,No,Pneumonia,Low,No,No,25.1,3,Yes,No,No,No,95,100,Medium
+P882,69,Female,Former,Occasional,No,Asthma,Low,No,Yes,28.8,9,Yes,No,Yes,No,96,95,Medium
+P883,65,Male,Never,Occasional,No,Pneumonia,Medium,No,No,18.2,3,Yes,No,Yes,No,96,88,Medium
+P884,55,Female,Former,No,No,No history,Low,No,No,32.3,8,No,No,Yes,No,97,95,Low
+P885,76,Male,Never,Regular,Yes,Bronchitis,Low,No,No,23.2,0,Yes,Yes,Yes,Yes,95,81,High
+P886,18,Male,Never,Occasional,No,No history,Low,No,Yes,28.6,3,No,No,No,No,100,109,Low
+P887,50,Male,Current,Regular,No,Asthma,Medium,Yes,Yes,26.9,10,Yes,Yes,Yes,Yes,96,82,High
+P888,40,Male,Never,Regular,Yes,Asthma,Low,Yes,Yes,23.5,12,No,No,No,Yes,99,72,Medium
+P889,67,Female,Former,Occasional,No,No history,Low,Yes,No,30.6,8,Yes,No,No,No,97,86,Low
+P890,63,Male,Former,No,No,No history,Medium,No,No,18.7,9,No,Yes,No,No,95,93,Low
+P891,64,Female,Current,Occasional,Yes,Pneumonia,Low,No,No,16.5,5,Yes,No,No,Yes,95,75,High
+P892,37,Female,Never,No,Yes,Asthma,Low,No,No,22.4,2,No,No,No,No,99,93,Low
+P893,54,Male,Current,Occasional,Yes,No history,Medium,No,Yes,20.6,11,No,No,Yes,No,94,84,High
+P894,62,Male,Never,No,Yes,No history,Medium,No,Yes,22.1,4,No,Yes,No,No,96,101,Low
+P895,65,Female,Never,No,No,No history,Low,No,Yes,28.7,3,Yes,No,No,No,98,90,Low
+P896,32,Male,Never,No,Yes,Bronchitis,Medium,Yes,Yes,24.8,17,No,No,Yes,No,99,93,Medium
+P897,36,Female,Former,No,No,No history,Medium,No,Yes,26.9,0,Yes,No,No,No,98,93,Low
+P898,50,Male,Former,Regular,No,No history,High,No,Yes,27.1,3,Yes,Yes,No,No,94,87,High
+P899,67,Male,Former,No,No,No history,Low,No,No,30.0,3,No,No,No,No,95,88,Low
+P900,55,Male,Current,No,No,No history,Medium,No,Yes,27.4,6,Yes,Yes,No,No,97,99,Medium
+P901,67,Female,Never,Occasional,No,No history,Low,No,No,24.2,4,No,No,No,Yes,95,94,Low
+P902,18,Female,Never,Occasional,Yes,No history,High,No,No,22.1,2,Yes,Yes,No,No,98,92,Medium
+P903,42,Female,Never,Regular,No,No history,Low,No,No,20.2,2,No,No,No,No,96,103,Low
+P904,53,Female,Never,Occasional,No,Bronchitis,High,No,Yes,27.4,5,Yes,Yes,No,Yes,96,90,Medium
+P905,50,Male,Current,No,No,Bronchitis,Medium,No,No,27.6,9,Yes,Yes,Yes,Yes,93,87,High
+P906,18,Male,Current,No,No,Asthma,High,Yes,Yes,19.5,15,Yes,No,No,No,97,107,Medium
+P907,63,Male,Never,Regular,No,No history,Medium,Yes,Yes,20.7,4,Yes,No,No,No,95,81,Medium
+P908,51,Female,Never,No,No,Pneumonia,Medium,No,No,30.7,3,No,No,No,Yes,97,89,Low
+P909,39,Male,Never,No,No,No history,High,No,No,23.6,8,No,No,No,Yes,100,96,Low
+P910,64,Male,Former,No,Yes,No history,Low,No,No,27.0,5,No,No,Yes,No,98,81,Medium
+P911,20,Male,Never,Occasional,Yes,Asthma,Low,No,No,22.1,5,Yes,No,Yes,No,97,97,Low
+P912,38,Female,Former,No,No,Pneumonia,Medium,No,No,24.6,7,No,No,No,No,97,87,Medium
+P913,59,Female,Never,Regular,Yes,Pneumonia,Low,No,No,18.0,7,Yes,No,No,Yes,98,93,Medium
+P914,52,Female,Current,Occasional,No,No history,Low,No,Yes,32.9,5,Yes,No,Yes,Yes,97,84,Medium
+P915,43,Male,Former,Occasional,No,No history,Medium,No,Yes,16.0,5,Yes,Yes,Yes,Yes,96,99,Medium
+P916,44,Male,Never,No,No,Pneumonia,Medium,Yes,No,30.2,8,Yes,No,No,No,96,87,Medium
+P917,42,Female,Former,Occasional,No,No history,Medium,No,No,18.4,2,No,No,No,No,98,92,Low
+P918,59,Male,Never,Regular,No,Bronchitis,High,No,No,25.5,18,Yes,Yes,No,Yes,97,70,High
+P919,41,Female,Current,Regular,No,Asthma,High,No,No,28.2,7,No,No,No,No,96,87,Medium
+P920,56,Male,Never,No,No,Asthma,Medium,No,No,20.1,9,No,Yes,Yes,No,97,85,Medium
+P921,18,Female,Never,No,Yes,Pneumonia,Medium,No,No,24.5,6,Yes,No,No,No,100,92,Low
+P922,64,Male,Never,Occasional,No,Pneumonia,Low,No,Yes,22.5,5,Yes,No,No,Yes,92,98,Medium
+P923,83,Female,Never,No,No,Pneumonia,Medium,No,No,26.5,7,Yes,Yes,Yes,Yes,96,73,High
+P924,53,Male,Former,No,Yes,No history,Low,No,Yes,23.1,9,Yes,No,Yes,Yes,97,87,Medium
+P925,45,Male,Never,No,Yes,Bronchitis,High,No,No,16.5,15,Yes,No,No,Yes,93,78,High
+P926,38,Female,Former,No,No,No history,Low,No,No,28.4,0,Yes,Yes,No,No,100,90,Low
+P927,56,Male,Current,Occasional,No,Pneumonia,Low,No,Yes,32.5,18,Yes,No,Yes,No,97,84,High
+P928,36,Male,Never,No,No,Asthma,High,Yes,No,33.9,10,Yes,No,No,Yes,97,72,Medium
+P929,34,Female,Never,No,No,Asthma,Medium,Yes,No,32.9,3,Yes,No,Yes,No,97,80,Medium
+P930,18,Female,Never,No,No,No history,High,No,No,26.5,9,Yes,No,No,No,98,103,Low
+P931,50,Female,Never,Occasional,Yes,No history,High,No,No,25.1,10,No,No,No,No,98,88,Low
+P932,42,Male,Never,No,No,No history,Low,Yes,Yes,24.8,1,Yes,No,Yes,Yes,98,105,Low
+P933,42,Male,Former,No,Yes,Pneumonia,Medium,No,No,30.8,18,No,No,No,No,94,82,High
+P934,46,Female,Never,Regular,No,Asthma,High,Yes,No,23.0,9,Yes,Yes,Yes,Yes,97,93,High
+P935,35,Female,Former,Occasional,Yes,No history,Low,No,Yes,19.1,8,Yes,No,No,Yes,98,109,Low
+P936,49,Female,Never,No,Yes,No history,Medium,No,Yes,21.5,3,No,No,No,Yes,95,96,Low
+P937,30,Male,Current,No,No,No history,Low,No,Yes,26.8,1,No,No,Yes,No,99,108,Low
+P938,44,Male,Current,Regular,Yes,Asthma,Medium,No,No,27.3,15,Yes,No,Yes,Yes,95,87,High
+P939,42,Female,Current,No,Yes,Asthma,Low,No,No,30.3,11,Yes,No,Yes,No,94,84,High
+P940,20,Female,Never,Regular,No,No history,Low,No,No,23.4,12,Yes,No,No,No,99,102,Low
+P941,28,Female,Former,Occasional,Yes,No history,Low,No,Yes,25.2,10,No,No,No,No,99,111,Low
+P942,37,Male,Current,Occasional,Yes,No history,Medium,No,Yes,29.2,10,Yes,No,Yes,No,97,102,Medium
+P943,38,Female,Never,No,Yes,Asthma,Low,No,No,26.8,9,No,No,No,No,100,102,Low
+P944,50,Female,Former,No,Yes,No history,Low,No,Yes,25.7,11,No,Yes,No,No,97,99,Medium
+P945,40,Male,Never,No,No,No history,Low,Yes,No,24.0,5,No,No,Yes,Yes,96,106,Low
+P946,45,Male,Never,Occasional,No,No history,Low,No,No,29.2,4,No,Yes,No,No,96,102,Low
+P947,40,Female,Never,Regular,No,Bronchitis,Medium,No,Yes,16.0,2,No,No,No,No,96,96,Low
+P948,18,Male,Never,No,No,Pneumonia,High,No,Yes,27.2,5,Yes,No,No,No,98,111,Medium
+P949,44,Female,Never,No,No,No history,Medium,Yes,No,31.7,3,No,Yes,No,No,95,102,Medium
+P950,33,Female,Never,Occasional,No,Bronchitis,High,Yes,No,24.6,11,Yes,No,No,Yes,97,98,Medium
+P951,44,Male,Never,Occasional,No,No history,Low,No,No,28.2,0,No,No,No,No,97,99,Low
+P952,35,Female,Never,Occasional,No,Asthma,Medium,Yes,Yes,23.8,4,Yes,Yes,No,Yes,97,95,Medium
+P953,56,Male,Never,No,No,Bronchitis,High,No,No,29.3,12,Yes,No,Yes,No,95,84,Medium
+P954,45,Male,Current,Regular,Yes,No history,High,No,No,25.3,16,Yes,Yes,Yes,Yes,94,87,High
+P955,57,Male,Never,Regular,Yes,No history,Low,No,No,27.9,1,No,No,No,Yes,96,88,Low
+P956,58,Male,Never,Occasional,No,No history,Low,No,Yes,25.6,3,No,No,No,Yes,98,115,Low
+P957,38,Female,Current,No,No,Bronchitis,Medium,No,Yes,29.3,11,Yes,No,No,Yes,95,93,Medium
+P958,58,Male,Never,Occasional,No,No history,Low,No,Yes,29.7,3,Yes,No,Yes,Yes,98,83,Low
+P959,49,Male,Current,Occasional,No,Bronchitis,High,No,No,24.8,15,Yes,Yes,No,Yes,95,91,High
+P960,30,Male,Never,Regular,No,Asthma,Low,No,No,21.4,7,Yes,Yes,No,No,99,94,Low
+P961,44,Male,Current,Occasional,Yes,No history,Medium,Yes,No,21.7,4,No,Yes,No,Yes,94,78,High
+P962,47,Male,Never,Occasional,No,No history,High,No,No,18.1,0,No,No,No,No,95,83,Low
+P963,65,Male,Former,Occasional,No,Asthma,High,No,Yes,23.0,13,No,No,No,Yes,96,88,Medium
+P964,41,Male,Never,No,Yes,No history,Medium,No,No,26.0,12,Yes,No,Yes,Yes,97,78,Medium
+P965,70,Female,Never,Regular,No,Asthma,Low,No,No,23.1,8,No,Yes,No,No,98,85,Medium
+P966,58,Male,Never,Occasional,No,No history,Medium,No,No,32.0,0,No,No,No,Yes,96,74,Low
+P967,18,Male,Never,Occasional,Yes,Asthma,Low,No,No,23.5,0,No,No,No,Yes,97,103,Low
+P968,30,Male,Former,Occasional,Yes,No history,Low,No,No,25.8,4,No,No,No,No,97,117,Low
+P969,55,Male,Former,No,No,No history,Medium,No,Yes,29.2,8,No,No,No,Yes,97,95,Medium
+P970,24,Male,Former,Occasional,No,No history,Low,Yes,No,25.1,5,No,Yes,Yes,Yes,97,104,Low
+P971,53,Male,Never,No,No,Pneumonia,Low,No,No,29.4,10,Yes,Yes,No,No,95,93,Medium
+P972,67,Female,Never,No,Yes,Bronchitis,High,No,Yes,33.1,10,Yes,Yes,No,No,93,82,High
+P973,42,Male,Former,Occasional,No,Pneumonia,Low,No,Yes,28.2,1,No,Yes,No,Yes,99,89,Medium
+P974,67,Female,Never,Occasional,No,No history,High,No,No,21.1,9,No,Yes,No,No,99,77,Medium
+P975,66,Female,Current,Occasional,No,No history,Low,No,No,28.9,0,No,No,No,No,96,95,Low
+P976,45,Female,Current,Regular,No,No history,Medium,Yes,Yes,23.9,3,Yes,No,No,Yes,94,84,Medium
+P977,45,Male,Former,No,No,Asthma,Low,No,No,20.3,0,No,Yes,Yes,Yes,96,95,Medium
+P978,49,Female,Never,Occasional,No,No history,Medium,No,No,31.4,0,Yes,Yes,No,Yes,98,89,Low
+P979,53,Female,Never,No,No,No history,Medium,No,No,26.6,15,Yes,No,Yes,No,98,99,Low
+P980,23,Male,Never,Occasional,Yes,No history,High,No,No,22.1,5,No,Yes,Yes,No,99,106,Low
+P981,44,Female,Current,Occasional,Yes,Pneumonia,Low,Yes,No,28.8,3,Yes,Yes,No,No,96,83,High
+P982,21,Female,Never,Occasional,Yes,No history,Medium,No,No,26.0,7,No,Yes,No,Yes,99,90,Low
+P983,41,Female,Former,Occasional,No,Pneumonia,Medium,No,No,21.9,7,No,No,Yes,No,97,91,Medium
+P984,43,Female,Never,Occasional,No,No history,Medium,No,Yes,28.2,4,Yes,No,No,Yes,98,97,Low
+P985,19,Male,Never,Occasional,No,Asthma,High,No,No,24.6,11,Yes,No,No,Yes,96,94,Medium
+P986,27,Female,Never,Regular,Yes,No history,Medium,Yes,Yes,25.4,1,No,No,No,Yes,98,95,Low
+P987,40,Male,Former,No,No,No history,Medium,Yes,Yes,34.7,6,No,Yes,No,No,98,98,Medium
+P988,78,Male,Current,No,Yes,Asthma,Low,Yes,No,27.0,8,Yes,No,Yes,Yes,96,65,High
+P989,25,Male,Never,Occasional,Yes,No history,Medium,No,No,26.2,3,Yes,No,No,No,100,98,Low
+P990,48,Female,Former,No,No,No history,High,No,No,26.6,9,No,No,No,Yes,97,101,Low
+P991,33,Male,Never,Occasional,No,Asthma,High,No,Yes,25.7,6,Yes,Yes,No,Yes,99,100,Medium
+P992,40,Female,Never,Regular,No,Pneumonia,Medium,No,Yes,27.3,5,No,No,No,No,96,95,Medium
+P993,61,Female,Never,Occasional,Yes,No history,Medium,No,No,25.3,5,No,No,No,Yes,95,75,Medium
+P994,51,Male,Never,Regular,No,Bronchitis,High,No,No,29.7,5,No,No,No,No,97,98,Medium
+P995,52,Male,Never,No,No,No history,High,No,No,31.9,3,No,No,Yes,No,98,94,Low
+P996,53,Female,Former,Occasional,No,No history,Low,Yes,No,24.9,5,No,No,No,Yes,97,84,Low
+P997,55,Female,Never,Occasional,No,Pneumonia,Low,No,No,18.4,3,No,No,No,No,97,88,Low
+P998,18,Male,Former,Occasional,No,No history,Medium,No,No,21.1,2,No,No,No,Yes,99,103,Low
+P999,52,Female,Former,No,Yes,No history,High,No,No,26.1,6,Yes,Yes,No,Yes,97,86,Medium
+P1000,45,Male,Never,No,No,No history,Low,No,Yes,27.8,5,No,No,No,No,97,96,Low
